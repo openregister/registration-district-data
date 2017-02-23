@@ -1,0 +1,7 @@
+---
+registration-district:
+  description: Registration districts in England and Wales
+  key: registration-district
+gss:
+  description: ONS/GSS code and name for registration districts in England and Wales
+  key: gss

@@ -1,0 +1,176 @@
+﻿REGD16CD	REGD16NM	FID
+E28000141	Hertfordshire	1
+E28000001	Bolton	2
+E28000063	Redbridge	3
+E28000142	East Riding of Yorkshire	4
+E28000064	Richmond upon Thames	5
+E28000002	Bury	6
+E28000143	North-East Lincolnshire	7
+E28000065	Camden	8
+E28000003	Manchester	9
+E28000144	Hull	10
+E28000004	Oldham	11
+E28000066	Southwark	12
+E28000145	North Lincolnshire	13
+E28000067	Sutton	14
+E28000005	Rochdale	15
+E28000146	Isle of Wight	16
+E28000006	Salford	17
+E28000068	Waltham Forest	18
+E28000147	Medway	19
+E28000148	Kent	20
+E28000069	Wandsworth	21
+E28000007	Stockport	22
+E28000149	Blackburn with Darwen	23
+E28000070	Newham	24
+E28000008	Tameside	25
+E28000150	Blackpool	26
+E28000071	Westminster	27
+E28000009	Trafford	28
+E28000072	Hammersmith and Fulham	29
+E28000151	Lancashire	30
+E28000010	Wigan and Leigh	31
+E28000073	Bath and North East Somerset	32
+E28000152	Leicester	33
+E28000011	Knowsley	34
+E28000074	Bristol	35
+E28000153	Rutland	36
+E28000012	Liverpool	37
+E28000075	South Gloucestershire	38
+E28000013	St. Helens	39
+E28000154	Leicestershire	40
+E28000076	North Somerset	41
+E28000155	Lincolnshire	42
+E28000215	Sefton	43
+E28000078	Luton	44
+E28000214	Norfolk	45
+E28000016	Wirral	46
+E28000204	Bedford	47
+E28000017	Barnsley	48
+E28000165	North Yorkshire	49
+E28000205	Central Bedfordshire	50
+E28000166	York	51
+E28000079	Bracknell Forest	52
+E28000018	Doncaster	53
+E28000212	Northamptonshire	54
+E28000080	West Berkshire	55
+E28000019	Rotherham	56
+E28000081	Reading	57
+E28000020	Sheffield	58
+E28000174	Northumberland	59
+E28000021	Gateshead	60
+E28000179	Nottingham	61
+E28000082	Slough	62
+E28000217	Nottinghamshire	63
+E28000083	Windsor and Maidenhead	64
+E28000022	Newcastle upon Tyne	65
+E28000084	Wokingham	66
+E28000023	North Tyneside	67
+E28000181	Oxfordshire	68
+E28000024	South Tyneside	69
+E28000182	Telford and Wrekin	70
+E28000085	Milton Keynes	71
+E28000183	Shropshire	72
+E28000086	Buckinghamshire	73
+E28000025	Sunderland	74
+E28000087	Peterborough	75
+E28000026	Birmingham	76
+E28000184	Somerset	77
+E28000088	Cambridgeshire	78
+E28000027	Coventry	79
+E28000185	Stoke-on-Trent	80
+E28000206	Cheshire East	81
+E28000186	Staffordshire	82
+E28000028	Dudley	83
+E28000089	Halton	84
+E28000213	Suffolk	85
+E28000029	Sandwell	86
+E28000207	Cheshire West and Chester	87
+E28000193	Surrey	88
+E28000030	Solihull	89
+E28000031	Walsall	90
+E28000209	Warwickshire	91
+E28000090	Warrington	92
+E28000211	West Sussex	93
+E28000092	Middlesbrough	94
+E28000032	Wolverhampton	95
+E28000093	Redcar and Cleveland	96
+E28000033	Bradford and Keighley	97
+E28000202	Swindon	98
+E28000034	Calderdale	99
+E28000203	Wiltshire	100
+E28000094	Stockton-on-Tees	101
+W20000001	Flintshire/Sir Y Fflint	102
+E28000095	Hartlepool	103
+E28000218	Kirklees	104
+E28000037	Leeds	105
+E28000096	Isles of Scilly	106
+W20000002	Denbighshire South/De Sir Ddinbych	107
+E28000208	Wakefield	108
+E28000097	Cornwall	109
+W20000003	Denbighshire North/Gogledd Sir Ddinbych	110
+E28000040	Barking and Dagenham	111
+W20000004	Wrexham	112
+E28000216	Cumbria	113
+W20000008	Pembrokeshire	114
+E28000111	Derby	115
+E28000041	Barnet	116
+E28000219	Derbyshire	117
+E28000042	Bexley	118
+W20000009	Carmarthenshire/Sir Gaerfyrddin	119
+E28000043	Brent	120
+W20000040	Ceredigion	121
+E28000115	Plymouth	122
+E28000044	Bromley	123
+W20000010	Blaenau Gwent	124
+E28000116	Torbay	125
+W20000011	Newport	126
+E28000117	Devon	127
+E28000045	Croydon	128
+W20000012	Torfaen	129
+E28000118	Bournemouth	130
+E28000046	Ealing	131
+E28000119	Dorset	132
+E28000047	Enfield	133
+W20000013	Monmouthshire/Sir Fynwy	134
+E28000048	Greenwich	135
+W20000018	Conwy	136
+E28000120	Poole	137
+W20000039	Gwynedd	138
+E28000121	Darlington	139
+E28000049	Hackney	140
+E28000122	County of Durham	141
+E28000050	Harrow	142
+W20000021	Ynys Mon (Isle of Anglesey)	143
+E28000051	Haringey	144
+W20000022	Merthyr Tydfil/Merthyr Tudful	145
+E28000123	Brighton and Hove	146
+E28000052	Havering	147
+W20000023	Bridgend	148
+E28000124	East Sussex	149
+W20000024	Caerphilly	150
+E28000210	Essex	151
+E28000053	Hillingdon	152
+E28000132	Southend-on-Sea	153
+E28000054	Hounslow	154
+W20000025	Rhondda Cynon Taf	155
+E28000055	Islington	156
+W20000038	Powys	157
+E28000133	Thurrock	158
+E28000056	Kensington and Chelsea	159
+W20000034	Cardiff/Caerdydd	160
+E28000135	Gloucestershire	161
+E28000057	Kingston upon Thames	162
+E28000058	Lambeth	163
+W20000035	Vale of Glamorgan/Bro Morgannwg	164
+E28000136	Portsmouth	165
+E28000059	Lewisham	166
+W20000036	Neath Port Talbot	167
+E28000137	Southampton	168
+E28000060	London City	169
+W20000037	Swansea	170
+E28000138	Hampshire	171
+E28000139	Herefordshire	172
+E28000061	Merton	173
+E28000062	Tower Hamlets	174
+E28000140	Worcestershire	175
