@@ -1,176 +1,176 @@
-registration-district	name	local-authority	start-date	end-date
-218	Barking and Dagenham	local-authority-eng:BDG		
-219	Barnet	local-authority-eng:BNE		
-41	Barnsley	local-authority-eng:BNS		
-300	Bath and North East Somerset	local-authority-eng:BAS		
-316	Bedford	local-authority-eng:BDF		
-220	Bexley	local-authority-eng:BEX		
-61	Birmingham	local-authority-eng:BIR		
-580	Blackburn With Darwen	local-authority-eng:BBD		
-581	Blackpool	local-authority-eng:BPL		
-833	Blaenau Gwent	local-authority-wls:BGW		
-2	Bolton	local-authority-eng:BOL		
-427	Bournemouth	local-authority-eng:BMH		
-318	Bracknell Forest	local-authority-eng:BRC		
-83	Bradford and Keighley	local-authority-eng:BRD		
-221	Brent	local-authority-eng:BEN		
-861	Bridgend	local-authority-wls:BGE		
-452	Brighton and Hove	local-authority-eng:BNH		
-301	Bristol	local-authority-eng:BST		
-222	Bromley	local-authority-eng:BRY		
-328	Buckinghamshire	local-authority-eng:BKM		
-3	Bury	local-authority-eng:BUR		
-863	Caerphilly	local-authority-wls:CAY		
-86	Calderdale	local-authority-eng:CLD		
-339	Cambridgeshire	local-authority-eng:CAM		
-250	Camden	local-authority-eng:CMD		
-890	Cardiff	local-authority-wls:CRF		
-822	Carmarthenshire	local-authority-wls:CMN		
-317	Central Bedfordshire	local-authority-eng:CBF		
-823	Ceredigion	local-authority-wls:CGN		
-342	Cheshire East	local-authority-eng:CHE		
-345	Cheshire West and Chester	local-authority-eng:CHW		
-846	Conwy	local-authority-wls:CWY		
-371	Cornwall	local-authority-eng:CON		
-442	County of Durham	local-authority-eng:DUR		
-63	Coventry	local-authority-eng:COV		
-225	Croydon	local-authority-eng:CRY		
-387	Cumbria	local-authority-eng:CMA		
-436	Darlington	local-authority-eng:DAL		
-811	Denbighshire North	local-authority-wls:DEN		
-805	Denbighshire South	local-authority-wls:DEN		
-394	Derby	local-authority-eng:DER		
-398	Derbyshire	local-authority-eng:DBY		
-423	Devon	local-authority-eng:DEV		
-42	Doncaster	local-authority-eng:DNC		
-429	Dorset	local-authority-eng:DOR		
-65	Dudley	local-authority-eng:DUD		
-226	Ealing	local-authority-eng:EAL		
-541	East Riding of Yorkshire	local-authority-eng:ERY		
-462	East Sussex	local-authority-eng:ESX		
-227	Enfield	local-authority-eng:ENF		
-463	Essex	local-authority-eng:ESS		
-804	Flintshire	local-authority-wls:FLN		
-51	Gateshead	local-authority-eng:GAT		
-488	Gloucestershire	local-authority-eng:GLS		
-229	Greenwich	local-authority-eng:GRE		
-855	Gwynedd	local-authority-wls:GWN		
-230	Hackney	local-authority-eng:HCK		
-343	Halton	local-authority-eng:HAL		
-260	Hammersmith and Fulham	local-authority-eng:HMF		
-504	Hampshire	local-authority-eng:HAM		
-233	Haringey	local-authority-eng:HRY		
-232	Harrow	local-authority-eng:HRW		
-351	Hartlepool	local-authority-eng:HPL		
-234	Havering	local-authority-eng:HAV		
-511	Herefordshire	local-authority-eng:HEF		
-538	Hertfordshire	local-authority-eng:HRT		
-236	Hillingdon	local-authority-eng:HIL		
-237	Hounslow	local-authority-eng:HNS		
-550	Hull	local-authority-eng:KHL		
-556	Isle of Wight	local-authority-eng:IOW		
-360	Isles of Scilly	local-authority-eng:IOS		
-238	Islington	local-authority-eng:ISL		
-239	Kensington and Chelsea	local-authority-eng:KEC		
-564	Kent	local-authority-eng:KEN		
-240	Kingston Upon Thames	local-authority-eng:KTT		
-90	Kirklees	local-authority-eng:KIR		
-23	Knowsley	local-authority-eng:KWL		
-241	Lambeth	local-authority-eng:LBH		
-591	Lancashire	local-authority-eng:LAN		
-92	Leeds	local-authority-eng:LDS		
-600	Leicester	local-authority-eng:LCE		
-605	Leicestershire	local-authority-eng:LEC		
-242	Lewisham	local-authority-eng:LEW		
-609	Lincolnshire	local-authority-eng:LIN		
-25	Liverpool	local-authority-eng:LIV		
-243	London City	local-authority-eng:LND		
-315	Luton	local-authority-eng:LUT		
-6	Manchester	local-authority-eng:MAN		
-561	Medway	local-authority-eng:MDW		
-860	Merthyr Tydfil	local-authority-wls:MTY		
-244	Merton	local-authority-eng:MRT		
-348	Middlesbrough	local-authority-eng:MDB		
-326	Milton Keynes	local-authority-eng:MIK		
-839	Monmouthshire	local-authority-wls:MON		
-896	Neath Port Talbot	local-authority-wls:NTL		
-53	Newcastle Upon Tyne	local-authority-eng:NET		
-257	Newham	local-authority-eng:NWM		
-836	Newport	local-authority-wls:NWP		
-642	Norfolk	local-authority-eng:NFK		
-548	North East Lincolnshire	local-authority-eng:NEL		
-554	North Lincolnshire	local-authority-eng:NLN		
-307	North Somerset	local-authority-eng:NSM		
-54	North Tyneside	local-authority-eng:NTY		
-650	North Yorkshire	local-authority-eng:NYK		
-674	Northamptonshire	local-authority-eng:NTH		
-681	Northumberland	local-authority-eng:NBL		
-689	Nottingham	local-authority-eng:NGM		
-692	Nottinghamshire	local-authority-eng:NTT		
-7	Oldham	local-authority-eng:OLD		
-695	Oxfordshire	local-authority-eng:OXF		
-819	Pembrokeshire	local-authority-wls:PEM		
-335	Peterborough	local-authority-eng:PTE		
-416	Plymouth	local-authority-eng:PLY		
-431	Poole	local-authority-eng:POL		
-497	Portsmouth	local-authority-eng:POR		
-882	Powys	local-authority-wls:POW		
-320	Reading	local-authority-eng:RDG		
-247	Redbridge	local-authority-eng:RDB		
-349	Redcar and Cleveland	local-authority-eng:RCC		
-864	Rhondda Cynon Taf	local-authority-wls:RCT		
-248	Richmond Upon Thames	local-authority-eng:RIC		
-9	Rochdale	local-authority-eng:RCH		
-45	Rotherham	local-authority-eng:ROT		
-604	Rutland	local-authority-eng:RUT		
-11	Salford	local-authority-eng:SLF		
-70	Sandwell	local-authority-eng:SAW		
-35	Sefton	local-authority-eng:SFT		
-48	Sheffield	local-authority-eng:SHF		
-717	Shropshire	local-authority-eng:SHR		
-321	Slough	local-authority-eng:SLG		
-73	Solihull	local-authority-eng:SOL		
-722	Somerset	local-authority-eng:SOM		
-304	South Gloucestershire	local-authority-eng:SGC		
-57	South Tyneside	local-authority-eng:STY		
-500	Southampton	local-authority-eng:STH		
-475	Southend-on-Sea	local-authority-eng:SOS		
-251	Southwark	local-authority-eng:SWK		
-30	St Helens	local-authority-eng:SHN		
-738	Staffordshire	local-authority-eng:STS		
-13	Stockport	local-authority-eng:SKP		
-350	Stockton-on-Tees	local-authority-eng:STT		
-737	Stoke-on-Trent	local-authority-eng:STE		
-748	Suffolk	local-authority-eng:SFK		
-58	Sunderland	local-authority-eng:SND		
-759	Surrey	local-authority-eng:SRY		
-254	Sutton	local-authority-eng:STN		
-897	Swansea	local-authority-wls:SWA		
-796	Swindon	local-authority-eng:SWD		
-14	Tameside	local-authority-eng:TAM		
-716	Telford and Wrekin	local-authority-eng:TFW		
-477	Thurrock	local-authority-eng:THR		
-422	Torbay	local-authority-eng:TOB		
-837	Torfaen	local-authority-wls:TOF		
-246	Tower Hamlets	local-authority-eng:TWH		
-15	Trafford	local-authority-eng:TRF		
-891	Vale of Glamorgan	local-authority-wls:VGL		
-97	Wakefield	local-authority-eng:WKF		
-75	Walsall	local-authority-eng:WLL		
-255	Waltham Forest	local-authority-eng:WFT		
-256	Wandsworth	local-authority-eng:WND		
-346	Warrington	local-authority-eng:WRT		
-776	Warwickshire	local-authority-eng:WAR		
-319	West Berkshire	local-authority-eng:WBK		
-785	West Sussex	local-authority-eng:WSX		
-258	Westminster	local-authority-eng:WSM		
-18	Wigan and Leigh	local-authority-eng:WGN		
-799	Wiltshire	local-authority-eng:WIL		
-322	Windsor and Maidenhead	local-authority-eng:WNM		
-37	Wirral	local-authority-eng:WRL		
-323	Wokingham	local-authority-eng:WOK		
-77	Wolverhampton	local-authority-eng:WLV		
-527	Worcestershire	local-authority-eng:WOR		
-813	Wrexham	local-authority-wls:WRX		
-857	Ynys Mon	local-authority-wls:AGY		
-661	York	local-authority-eng:YOR		
+registration-district	name	name-cy	local-authority	start-date	end-date
+2	Bolton		local-authority-eng:BOL		
+3	Bury		local-authority-eng:BUR		
+6	Manchester		local-authority-eng:MAN		
+7	Oldham		local-authority-eng:OLD		
+9	Rochdale		local-authority-eng:RCH		
+11	Salford		local-authority-eng:SLF		
+13	Stockport		local-authority-eng:SKP		
+14	Tameside		local-authority-eng:TAM		
+15	Trafford		local-authority-eng:TRF		
+18	Wigan and Leigh		local-authority-eng:WGN		
+23	Knowsley		local-authority-eng:KWL		
+25	Liverpool		local-authority-eng:LIV		
+30	St Helens		local-authority-eng:SHN		
+35	Sefton		local-authority-eng:SFT		
+37	Wirral		local-authority-eng:WRL		
+41	Barnsley		local-authority-eng:BNS		
+42	Doncaster		local-authority-eng:DNC		
+45	Rotherham		local-authority-eng:ROT		
+48	Sheffield		local-authority-eng:SHF		
+51	Gateshead		local-authority-eng:GAT		
+53	Newcastle Upon Tyne		local-authority-eng:NET		
+54	North Tyneside		local-authority-eng:NTY		
+57	South Tyneside		local-authority-eng:STY		
+58	Sunderland		local-authority-eng:SND		
+61	Birmingham		local-authority-eng:BIR		
+63	Coventry		local-authority-eng:COV		
+65	Dudley		local-authority-eng:DUD		
+70	Sandwell		local-authority-eng:SAW		
+73	Solihull		local-authority-eng:SOL		
+75	Walsall		local-authority-eng:WLL		
+77	Wolverhampton		local-authority-eng:WLV		
+83	Bradford and Keighley		local-authority-eng:BRD		
+86	Calderdale		local-authority-eng:CLD		
+90	Kirklees		local-authority-eng:KIR		
+92	Leeds		local-authority-eng:LDS		
+97	Wakefield		local-authority-eng:WKF		
+218	Barking and Dagenham		local-authority-eng:BDG		
+219	Barnet		local-authority-eng:BNE		
+220	Bexley		local-authority-eng:BEX		
+221	Brent		local-authority-eng:BEN		
+222	Bromley		local-authority-eng:BRY		
+225	Croydon		local-authority-eng:CRY		
+226	Ealing		local-authority-eng:EAL		
+227	Enfield		local-authority-eng:ENF		
+229	Greenwich		local-authority-eng:GRE		
+230	Hackney		local-authority-eng:HCK		
+232	Harrow		local-authority-eng:HRW		
+233	Haringey		local-authority-eng:HRY		
+234	Havering		local-authority-eng:HAV		
+236	Hillingdon		local-authority-eng:HIL		
+237	Hounslow		local-authority-eng:HNS		
+238	Islington		local-authority-eng:ISL		
+239	Kensington and Chelsea		local-authority-eng:KEC		
+240	Kingston Upon Thames		local-authority-eng:KTT		
+241	Lambeth		local-authority-eng:LBH		
+242	Lewisham		local-authority-eng:LEW		
+243	London City		local-authority-eng:LND		
+244	Merton		local-authority-eng:MRT		
+246	Tower Hamlets		local-authority-eng:TWH		
+247	Redbridge		local-authority-eng:RDB		
+248	Richmond Upon Thames		local-authority-eng:RIC		
+250	Camden		local-authority-eng:CMD		
+251	Southwark		local-authority-eng:SWK		
+254	Sutton		local-authority-eng:STN		
+255	Waltham Forest		local-authority-eng:WFT		
+256	Wandsworth		local-authority-eng:WND		
+257	Newham		local-authority-eng:NWM		
+258	Westminster		local-authority-eng:WSM		
+260	Hammersmith and Fulham		local-authority-eng:HMF		
+300	Bath and North East Somerset		local-authority-eng:BAS		
+301	Bristol		local-authority-eng:BST		
+304	South Gloucestershire		local-authority-eng:SGC		
+307	North Somerset		local-authority-eng:NSM		
+315	Luton		local-authority-eng:LUT		
+316	Bedford		local-authority-eng:BDF		
+317	Central Bedfordshire		local-authority-eng:CBF		
+318	Bracknell Forest		local-authority-eng:BRC		
+319	West Berkshire		local-authority-eng:WBK		
+320	Reading		local-authority-eng:RDG		
+321	Slough		local-authority-eng:SLG		
+322	Windsor and Maidenhead		local-authority-eng:WNM		
+323	Wokingham		local-authority-eng:WOK		
+326	Milton Keynes		local-authority-eng:MIK		
+328	Buckinghamshire		local-authority-eng:BKM		
+335	Peterborough		local-authority-eng:PTE		
+339	Cambridgeshire		local-authority-eng:CAM		
+342	Cheshire East		local-authority-eng:CHE		
+343	Halton		local-authority-eng:HAL		
+345	Cheshire West and Chester		local-authority-eng:CHW		
+346	Warrington		local-authority-eng:WRT		
+348	Middlesbrough		local-authority-eng:MDB		
+349	Redcar and Cleveland		local-authority-eng:RCC		
+350	Stockton-on-Tees		local-authority-eng:STT		
+351	Hartlepool		local-authority-eng:HPL		
+360	Isles of Scilly		local-authority-eng:IOS		
+371	Cornwall		local-authority-eng:CON		
+387	Cumbria		local-authority-eng:CMA		
+394	Derby		local-authority-eng:DER		
+398	Derbyshire		local-authority-eng:DBY		
+416	Plymouth		local-authority-eng:PLY		
+422	Torbay		local-authority-eng:TOB		
+423	Devon		local-authority-eng:DEV		
+427	Bournemouth		local-authority-eng:BMH		
+429	Dorset		local-authority-eng:DOR		
+431	Poole		local-authority-eng:POL		
+436	Darlington		local-authority-eng:DAL		
+442	County of Durham		local-authority-eng:DUR		
+452	Brighton and Hove		local-authority-eng:BNH		
+462	East Sussex		local-authority-eng:ESX		
+463	Essex		local-authority-eng:ESS		
+475	Southend-on-Sea		local-authority-eng:SOS		
+477	Thurrock		local-authority-eng:THR		
+488	Gloucestershire		local-authority-eng:GLS		
+497	Portsmouth		local-authority-eng:POR		
+500	Southampton		local-authority-eng:STH		
+504	Hampshire		local-authority-eng:HAM		
+511	Herefordshire		local-authority-eng:HEF		
+527	Worcestershire		local-authority-eng:WOR		
+538	Hertfordshire		local-authority-eng:HRT		
+541	East Riding of Yorkshire		local-authority-eng:ERY		
+548	North East Lincolnshire		local-authority-eng:NEL		
+550	Hull		local-authority-eng:KHL		
+554	North Lincolnshire		local-authority-eng:NLN		
+556	Isle of Wight		local-authority-eng:IOW		
+561	Medway		local-authority-eng:MDW		
+564	Kent		local-authority-eng:KEN		
+580	Blackburn With Darwen		local-authority-eng:BBD		
+581	Blackpool		local-authority-eng:BPL		
+591	Lancashire		local-authority-eng:LAN		
+600	Leicester		local-authority-eng:LCE		
+604	Rutland		local-authority-eng:RUT		
+605	Leicestershire		local-authority-eng:LEC		
+609	Lincolnshire		local-authority-eng:LIN		
+642	Norfolk		local-authority-eng:NFK		
+650	North Yorkshire		local-authority-eng:NYK		
+661	York		local-authority-eng:YOR		
+674	Northamptonshire		local-authority-eng:NTH		
+681	Northumberland		local-authority-eng:NBL		
+689	Nottingham		local-authority-eng:NGM		
+692	Nottinghamshire		local-authority-eng:NTT		
+695	Oxfordshire		local-authority-eng:OXF		
+716	Telford and Wrekin		local-authority-eng:TFW		
+717	Shropshire		local-authority-eng:SHR		
+722	Somerset		local-authority-eng:SOM		
+737	Stoke-on-Trent		local-authority-eng:STE		
+738	Staffordshire		local-authority-eng:STS		
+748	Suffolk		local-authority-eng:SFK		
+759	Surrey		local-authority-eng:SRY		
+776	Warwickshire		local-authority-eng:WAR		
+785	West Sussex		local-authority-eng:WSX		
+796	Swindon		local-authority-eng:SWD		
+799	Wiltshire		local-authority-eng:WIL		
+804	Flintshire	Sir y Fflint	local-authority-wls:FLN		
+805	Denbighshire South	De Sir Ddinbych	local-authority-wls:DEN		
+811	Denbighshire North	Gogledd Sir Ddinbych	local-authority-wls:DEN		
+813	Wrexham	Wrecsam	local-authority-wls:WRX		
+819	Pembrokeshire	Sir Benfro	local-authority-wls:PEM		
+822	Carmarthenshire	Sir Gaerfyrddin	local-authority-wls:CMN		
+823	Ceredigion		local-authority-wls:CGN		
+833	Blaenau Gwent		local-authority-wls:BGW		
+836	Newport	Casnewydd	local-authority-wls:NWP		
+837	Torfaen	Tor-faen	local-authority-wls:TOF		
+839	Monmouthshire	Sir Fynwy	local-authority-wls:MON		
+846	Conwy		local-authority-wls:CWY		
+855	Gwynedd		local-authority-wls:GWN		
+857	Isle of Anglesey	Ynys Môn	local-authority-wls:AGY		
+860	Merthyr Tydfil	Merthyr Tudful	local-authority-wls:MTY		
+861	Bridgend	Pen-y-bont ar Ogwr	local-authority-wls:BGE		
+863	Caerphilly	Caerffili	local-authority-wls:CAY		
+864	Rhondda Cynon Taf		local-authority-wls:RCT		
+882	Powys		local-authority-wls:POW		
+890	Cardiff	Caerdydd	local-authority-wls:CRF		
+891	Vale of Glamorgan	Bro Morgannwg	local-authority-wls:VGL		
+896	Neath Port Talbot	Castell-nedd Port Talbot	local-authority-wls:NTL		
+897	Swansea	Abertawe	local-authority-wls:SWA		
