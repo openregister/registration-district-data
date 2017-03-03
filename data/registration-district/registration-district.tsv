@@ -137,7 +137,12 @@ registration-district	name	name-cy	local-authority	start-date	end-date
 661	York		local-authority-eng:YOR		
 674	Northamptonshire		local-authority-eng:NTH		
 681	Northumberland		local-authority-eng:NBL		
+685	Basford				2012-04-01
+686	Bassetlaw				2012-04-01
+687	Mansfield				2012-04-01
+688	Newark				2012-04-01
 689	Nottingham		local-authority-eng:NGM		
+690	Rushcliffe				2012-04-01
 692	Nottinghamshire		local-authority-eng:NTT		
 695	Oxfordshire		local-authority-eng:OXF		
 716	Telford and Wrekin		local-authority-eng:TFW		
