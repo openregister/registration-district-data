@@ -28,7 +28,10 @@ district-county-map.tsv:
 	> $@
 
 ../../maps/gss.tsv: borough-and-unitary-authority-map.tsv county-map.tsv
-	csvstack borough-and-unitary-authority-map.tsv county-map.tsv > $@
+	csvstack borough-and-unitary-authority-map.tsv county-map.tsv \
+	| csvcut -tC registration-district-name \
+	| csvformat -T \
+	> $@
 
 borough-and-unitary-authority-map.tsv: registration-district-map.tsv
 	# join by GSS code to get local-authority borough code
