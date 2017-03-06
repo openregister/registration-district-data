@@ -30,13 +30,13 @@ district-county-map.tsv:
 	| csvformat -T \
 	> $@
 
-../../maps/gss.tsv: borough-and-unitary-authority-map.tsv county-map.tsv
-	csvstack borough-and-unitary-authority-map.tsv county-map.tsv \
+../../maps/gss.tsv: borough-and-unitary-map.tsv county-map.tsv
+	csvstack borough-and-unitary-map.tsv county-map.tsv \
 	| csvcut -tC registration-district-name \
 	| csvformat -T \
 	> $@
 
-borough-and-unitary-authority-map.tsv: registration-district-map.tsv $(GSS_LOCAL_AUTHORITY_MAP) \
+borough-and-unitary-map.tsv: registration-district-map.tsv $(GSS_LOCAL_AUTHORITY_MAP) \
 	$(REGISTRATION_DISTRICT_LOCAL_AUTHORITY_MAP)
 
 	./bin/add-local-authority-borough-code.sh > map-with-borough-local-authority.tsv
