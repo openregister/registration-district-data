@@ -5,16 +5,23 @@ clean:
 	rm -f list.tsv
 	rm -f ../../maps/gss.tsv
 
+# Downloads "Registration Districts (December 2016) Names and Codes in England
+# and Wales" (http://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0)
+# to list.tsv file.
 list.tsv:
 	curl -ks https://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0.csv \
 	| csvformat -T \
 	> $@
 
+# Downloads "Ward to Registration District to Local Authority District
+# (December 2016) Lookup in England and Wales" (https://geoportal.statistics.gov.uk/datasets/5a44fa3bc2894f968b711c194f74c2e7_0)
 registration-district-map.tsv:
 	curl -ks https://geoportal.statistics.gov.uk/datasets/5a44fa3bc2894f968b711c194f74c2e7_0.csv \
 	| csvformat -T \
 	> $@
 
+# Downloads "Local Authority District to County (December 2016) Lookup in
+# England" (https://geoportal.statistics.gov.uk/datasets/180a69233de94a8da3fb6a8a4959fcc7_0)
 district-county-map.tsv:
 	curl -ks https://geoportal.statistics.gov.uk/datasets/180a69233de94a8da3fb6a8a4959fcc7_0.csv \
 	| csvformat -T \
