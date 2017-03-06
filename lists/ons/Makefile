@@ -33,28 +33,13 @@ district-county-map.tsv:
 	| csvformat -T \
 	> $@
 
-borough-and-unitary-authority-map.tsv: registration-district-map.tsv
-	# join by GSS code to get local-authority borough code
-	csvjoin -tc LAD16CD,gss registration-district-map.tsv ../../../local-authority-data/maps/gss.tsv \
-	| csvcut -C name \
-	| csvcut -c local-authority,LAD16CD,LAD16NM,REGD16CD,REGD16NM \
-	| csvsort \
-	| uniq \
-	| csvformat -T > map-with-borough-local-authority.tsv
-  # join by local-authority code to get district
-	(\
-	echo "gss,registration-district,name,registration-district-name" \
-	&& csvjoin -tc local-authority map-with-borough-local-authority.tsv ../../../local-authority-data/maps/registration-district.tsv \
-	| csvcut -c REGD16CD,registration-district,REGD16NM,name \
-	| sed 's/REGD16CD.*//' \
-	| awk 'NF' \
-	| sort -u \
-	| sed 's/W20000002,811.*//' \
-	| sed 's/W20000003,805.*//' \
-	| awk 'NF' \
-	) \
-	| csvformat -T \
-	> $@ && rm -f map-with-borough-local-authority.tsv
+borough-and-unitary-authority-map.tsv: registration-district-map.tsv \
+	../../../local-authority-data/maps/gss.tsv \
+	../../../local-authority-data/maps/registration-district.tsv
+
+	./bin/add-local-authority-borough-code.sh > map-with-borough-local-authority.tsv
+	./bin/add-registration-district-via-local-authority-borough-code.sh > $@
+	rm -f map-with-borough-local-authority.tsv
 
 county-map.tsv: registration-district-map.tsv district-county-map.tsv
 	# join by GSS borough code to get GSS county code
