@@ -1,11 +1,11 @@
-target: registration-district.tsv \
+target: list.tsv \
 	../../maps/gss.tsv
 
 clean:
-	rm -f registration-district.tsv
+	rm -f list.tsv
 	rm -f ../../maps/gss.tsv
 
-registration-district.tsv:
+list.tsv:
 	curl -ks https://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0.csv \
 	| csvformat -T \
 	> $@
