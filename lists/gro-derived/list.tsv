@@ -1,0 +1,181 @@
+registration-district	name	name-cy	start-date	end-date
+2	Bolton			
+3	Bury			
+6	Manchester			
+7	Oldham			
+9	Rochdale			
+11	Salford			
+13	Stockport			
+14	Tameside			
+15	Trafford			
+18	Wigan and Leigh			
+23	Knowsley			
+25	Liverpool			
+30	St Helens			
+35	Sefton			
+37	Wirral			
+41	Barnsley			
+42	Doncaster			
+45	Rotherham			
+48	Sheffield			
+51	Gateshead			
+53	Newcastle Upon Tyne			
+54	North Tyneside			
+57	South Tyneside			
+58	Sunderland			
+61	Birmingham			
+63	Coventry			
+65	Dudley			
+70	Sandwell			
+73	Solihull			
+75	Walsall			
+77	Wolverhampton			
+83	Bradford and Keighley			
+86	Calderdale			
+90	Kirklees			
+92	Leeds			
+97	Wakefield			
+218	Barking and Dagenham			
+219	Barnet			
+220	Bexley			
+221	Brent			
+222	Bromley			
+225	Croydon			
+226	Ealing			
+227	Enfield			
+229	Greenwich			
+230	Hackney			
+232	Harrow			
+233	Haringey			
+234	Havering			
+236	Hillingdon			
+237	Hounslow			
+238	Islington			
+239	Kensington and Chelsea			
+240	Kingston Upon Thames			
+241	Lambeth			
+242	Lewisham			
+243	London City			
+244	Merton			
+246	Tower Hamlets			
+247	Redbridge			
+248	Richmond Upon Thames			
+250	Camden			
+251	Southwark			
+254	Sutton			
+255	Waltham Forest			
+256	Wandsworth			
+257	Newham			
+258	Westminster			
+260	Hammersmith and Fulham			
+300	Bath and North East Somerset			
+301	Bristol			
+304	South Gloucestershire			
+307	North Somerset			
+315	Luton			
+316	Bedford			
+317	Central Bedfordshire			
+318	Bracknell Forest			
+319	West Berkshire			
+320	Reading			
+321	Slough			
+322	Windsor and Maidenhead			
+323	Wokingham			
+326	Milton Keynes			
+328	Buckinghamshire			
+335	Peterborough			
+339	Cambridgeshire			
+342	Cheshire East			
+343	Halton			
+345	Cheshire West and Chester			
+346	Warrington			
+348	Middlesbrough			
+349	Redcar and Cleveland			
+350	Stockton-on-Tees			
+351	Hartlepool			
+360	Isles of Scilly			
+371	Cornwall			
+387	Cumbria			
+394	Derby			
+398	Derbyshire			
+416	Plymouth			
+422	Torbay			
+423	Devon			
+427	Bournemouth			
+429	Dorset			
+431	Poole			
+436	Darlington			
+442	County of Durham			
+452	Brighton and Hove			
+462	East Sussex			
+463	Essex			
+475	Southend-on-Sea			
+477	Thurrock			
+488	Gloucestershire			
+497	Portsmouth			
+500	Southampton			
+504	Hampshire			
+511	Herefordshire			
+527	Worcestershire			
+538	Hertfordshire			
+541	East Riding of Yorkshire			
+548	North East Lincolnshire			
+550	Hull			
+554	North Lincolnshire			
+556	Isle of Wight			
+561	Medway			
+564	Kent			
+580	Blackburn With Darwen			
+581	Blackpool			
+591	Lancashire			
+600	Leicester			
+604	Rutland			
+605	Leicestershire			
+609	Lincolnshire			
+642	Norfolk			
+650	North Yorkshire			
+661	York			
+674	Northamptonshire			
+681	Northumberland			
+685	Basford			2012-04-01
+686	Bassetlaw			2012-04-01
+687	Mansfield			2012-04-01
+688	Newark			2012-04-01
+689	Nottingham			
+690	Rushcliffe			2012-04-01
+692	Nottinghamshire			
+695	Oxfordshire			
+716	Telford and Wrekin			
+717	Shropshire			
+722	Somerset			
+737	Stoke-on-Trent			
+738	Staffordshire			
+748	Suffolk			
+759	Surrey			
+776	Warwickshire			
+785	West Sussex			
+796	Swindon			
+799	Wiltshire			
+804	Flintshire	Sir y Fflint		
+805	Denbighshire South	De Sir Ddinbych		
+811	Denbighshire North	Gogledd Sir Ddinbych		
+813	Wrexham	Wrecsam		
+819	Pembrokeshire	Sir Benfro		
+822	Carmarthenshire	Sir Gaerfyrddin		
+823	Ceredigion			
+833	Blaenau Gwent			
+836	Newport	Casnewydd		
+837	Torfaen	Tor-faen		
+839	Monmouthshire	Sir Fynwy		
+846	Conwy			
+855	Gwynedd			
+857	Isle of Anglesey	Ynys Môn		
+860	Merthyr Tydfil	Merthyr Tudful		
+861	Bridgend	Pen-y-bont ar Ogwr		
+863	Caerphilly	Caerffili		
+864	Rhondda Cynon Taf			
+882	Powys			
+890	Cardiff	Caerdydd		
+891	Vale of Glamorgan	Bro Morgannwg		
+896	Neath Port Talbot	Castell-nedd Port Talbot		
+897	Swansea	Abertawe		
