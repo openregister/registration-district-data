@@ -12,3 +12,6 @@ maps/local-authority.tsv: ../local-authority-data/maps/registration-district.tsv
 
 clean:
 	rm -f data/registration-district/registration-district.tsv
+
+init:
+	[ -e $$(which csvcut) ] || pip install -r requirements.txt
