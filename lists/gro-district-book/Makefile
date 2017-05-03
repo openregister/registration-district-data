@@ -3,7 +3,7 @@ URL='https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%2
 # uses https://en.wikipedia.org/wiki/Pdftotext which is bundled with poppler https://en.wikipedia.org/wiki/Poppler_(software)
 
 list.tsv:	data.tsv map.py
-	./map.py < list.txt > $@
+	python3 ./map.py < data.tsv > $@
 
 data.tsv:	data.txt squash.sh
 	./squash.sh < data.txt > $@
