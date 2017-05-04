@@ -1,1058 +1,1056 @@
-registration-district	name	start-date	end-date
-*0*	Brightford		
-*0*	Cornwall		
-*0*	Cumberland		
-*0*	De Meirionwydd	1974	
-*0*	Norfolk		
-*0*	Orpingham		
-*0*	Sussex (County of _)		
-*1*	Aled	1935	1974
-*2*	Alverstoke		1932
-*3*	Alyn & Deeside	1974	
-*4*	Amounderness	1935	1974
-*5*	Anglesey (east and west)	1937	1969
-*6*	Amber Valley	1994	
-*6*	Ashton	1937	1974
-*7*	Ashton-under-Lyne		1937
-*8*	Border	1937	1974
-*9*	Bosmere		1935
-*10*	Buckrose	1937	1974
-*11*	Calder	1938	1974
-*12*	Camberwell		1991
-*13*	Castle Ward		1937
-*14*	Cleethorpes	1934	1974
-*15	Central Cleveland	1974	
-*15*	Cleveland	1936	1974
-*16*	Conway (Valley)		1974
-*17*	Cosford		1938
-*18*	Devon Central	1936	1974
-*19*	Dolgelly		1935
-*20*	Don Valley	1938	1974
-*21*	Dunmow		1968
-*22*	Durham Central (NEW)	1938	1971
-*22*	Durham South Eastern	1938	1971
-*23*	Durham North Eastern	1938	1974
-*24*	Durham North Western	1938	1974
-*25*	East Glamorgan	1935	1974
-*26*	East Preston	1870	1935
-*27*	East Stonehouse		1937
-*28*	Easthampstead		1937
-*29*	East Ward		1937
-*30*	Ecclesall Bierlow		1935
-*31*	Essex South West	1935	1965
-*32*	Ewecross	1947	
-*33*	Freebridge Lynn		1939
-*34*	Glanford Brigg		1938
-*35*	Glendale		1937
-*36*	Glyndwr	1974	
-*37*	Grimsby	1897	
-*38*	Henstead (orig Humbleyard & Henstead)		1939
-*39*	Hiraethog	1935	1974
-*40*	Llandilofawr		1935
-*41*	Lower Agbrigg	1939	1974
-*42*	Malling		1941
-*43*	Merioneth	1935	1974
-*44*	Middlesex South	1947	1965
-*45*	Mitford (orig Mitford & Lanunditch)		1939
-*46*	Morpeth		1937
-*47*	Nantwich		1937
-*48*	Newport (Salop)		1935
-*49*	North Bierley	1892	1938
-*50*	North Bucks	1935	1985
-*51*	North Cleveland	1974	
-*52*	North East Cheshire	1937	1974
-*53*	North Witchford		1938
-*54*	Northumberland South	1936	1974
-*55*	Ogwr	1974	
-*56*	Oldbury	1932	1966
-*57*	Plomesgate		1935
-*58*	Radnorshire West	1933	1988
-*59*	Risbridge		1938
-*60*	Reeth		1936
-*61*	Romford		1965
-*62*	Romney Marsh		1941
-*63*	Rother Valley	1938	1974
-*64*	St Faiths		1939
-*65*	St George Hanover Square		1933
-*65*	St James Westminster		1871
-*66*	St George the Martyr (Southwark)		1870
-*66*	St James Bermondsey		
-*66*	St Mary Magdalene		1870
-*66*	St Olave Bermondsey	1902	1913
-*66*	St Saviour (Southwark)		1901
-*67*	St James Clerkenwell		1869
-*68*	St Lukes Chelsea		
-*69*	St Mary Newington		1870
-*70*	Samford		1974
-*71	Scunthorpe	1938	
-*72*	South Glamorgan (Vale of _)	1974	
-*73*	Spen Valley	1939	1974
-*74*	Stockton (orig Stockton & Segdefield)		1938
-*75*	Stow (Suffolk)		1935
-*76*	Surrey North East	1934	1965
-*77*	Upper Agbrigg	1939	1974
-*78*	Weardale		1938
-*79*	Wenlock	1935	1948
-*80*	West Cheshire	1937	1974
-*81*	West Glamorgan	1935	1974
-*83*	West Ward		1937
-*83*	Westmorland (North & South)	1937	1974
-*84*	West Bridgford	1976	1988
-*85*	Delyn	1974	
-*86*	Alston (Penrith)		1974
-*87*	Barton Regis	1877	1905
-*88*	Surrey South West	1934	
-*89*	Surrey Mid Eastern	1934	
-*90*	Surrey Northern	1934	1965
-*91*	Surrey South East	1934	
-*92*	Bramley	1863	1929
-*92*	Surrey North West	1934	
-*93*	Ecclesfield		1850
-*95*	Sidcup	1941	1965
-*96*	Alderbury		1895
-*96*	Teesside (also North & South)	1968	1974
-*97*	Blything		1935
-*98*	Bootle (Cul)		1939
-*99*	Bramham	1862	1869
-*100*	East London		1870
-*101*	Guiltcross		1902
-*102*	North Aylesford		1885
-*103*	Sowe		
-*104*	Stoke Damerel		1898
-*105*	Thingoe		1908
-*106*	West London (London West)		1870
-*107*	Worsley		1850
-2	Bolton		
-2	Farnworth	1935	1974
-2	Horwich	1935	1968
-3	Bury		
-6	Ardwick		
-6	Chorlton		1925
-6	Manchester		
-6	Manchester Chorlton		
-6	Prestwich		1925
-6	South Derbyshire	1997	
-7	Oldham		
-7	Saddleworth		1974
-9	Bedfordshire	1999	
-9	Heywood	1934	1974
-9	Littleborough	1936	1974
-9	Middleton	1933	1974
-9	Rochdale		
-11	Salford		
-13	Stockport		
-14	Hyde	1937	1974
-14	Newton	1934	1974
-14	Tameside	1974	
-15	Altrincham		1898
-15	Barton	1934	1980
-15	Barton on-Irwell		1934
-15	Bucklow	1898	1974
-15	Trafford	1974	
-16	Strood & Hoo	1923	1941
-17	East Surrey	2000	
-17	Mid Surrey	1996	
-17	North Surrey	1996	
-17	South East Surrey	1996	
-17	West Surrey	1996	
-18	Ince	1936	1974
-18	Leigh (Wigan & _)		
-18	Wigan		
-18	Wigan & Leigh	1995	
-19	Chiltern & South Bucks	1988	
-19	Chiltern Hills	1988	
-19	Easthampstead	1970	1974
-23	Knowsley	1974	
-25	Aberconwy	1975	
-25	Anglesey		1937
-25	Dwyfor	1996	
-25	Everton		
-25	Liverpool		
-25	Toxteth Park	1881	1925
-25	West Derby		1934
-28	Vale of Glamorgan	1996	
-30	Dawley	1974	
-30	Matlock		1839
-30	Prescot		1974
-30	St Helens	1935	
-30	Telford & Wrekin	1998	
-32	Bootle (Lan)	1934	
-32	Crosby (Sefton South)	1934	
-32	Sefton (North & South)	1980	
-34	Southport	1934	
-35	South Cheshire	1991	
-37	Birkenhead	1861	
-37	Wallasey	1936	
-37	Wirral		1974
-40	Blackburn		
-41	Barnsley		
-41	Penistone	1911	1947
-41	Staincross	1938	1974
-42	Doncaster		
-42	Thorne		1947
-45	Rotherham		
-48	Sheffield		
-51	Gateshead		
-53	Newcastle-upon-Tyne		
-54	North Shields		
-54	North Tyneside	1985	1985
-54	Tynemouth		1974
-57	Jarrow (South Tyneside)	1974	
-57	South Shields (Sth Tyneside)		
-57	South Tyneside	2001	
-58	Houghton-le-Spring		1938
-58	Sunderland		
-61	Aston		1924
-61	Birmingham (North & South)	1924	1932
-61	Birmingham		
-61	King's Norton (& Birmingham)		1924
-61	Sutton Coldfield	1939	1974
-63	Coventry		
-63	Foleshill		1932
-65	Dudley		
-65	Kingswinford	1934	1937
-66	Stourbridge (now Dudley)		
-70	Rowley Regis	1935	1966
-70	Sandwell	1974	
-70	Smethwick	1932	1966
-70	Warley (East & West)	1969	1974
-70	Wednesbury	1932	1966
-70	West Bromwich		1974
-73	Meriden		1978
-73	Solihull		1978
-73	Solihull North	1978	
-73	Solihull South	1978	
-75	Aldridge & Brownhills	1966	1974
-75	Walsall		
-77	Bilston	1935	1966
-77	Seisdon		1839
-81	Bradford		
-81	Wharfedale	1861	1981
-82	Keighley		
-83	Worth Valley	1947	1974
-86	Calderdale		
-86	Halifax (now Calderdale)		
-86	Todmorden (now Calderdale)		
-88	Dewsbury		
-88	Staincliffe	1947	
-89	Huddersfield		
-92	Holbeck	1862	1929
-92	Hunslet		1929
-92	Kirkstall	1862	1869
-92	Leeds (& North, South)		
-92	Otley		1869
-92	Wetherby	1954	1947
-92	Wortley		1974
-98	Castleford	1862	1868
-98	Hemsworth		1974
-98	Pontefract		
-99	Wakefield		
-218	Barking	1965	1989
-218	Barking (& Dagenham)	1989	
-219	Barnet		
-219	Hendon		
-220	Bexley	1965	
-221	Brent (Willesden)	1965	
-221	Willesden (Brent from 1965)	1909	1965
-222	Bromley		
-225	Croydon		
-226	Ealing	1947	
-227	Edmonton		1965
-227	Enfield	1965	
-228	Fulham (Hammersmith & _)	1875	
-228	Hammersmith (& Fulham)	1913	
-229	Greenwich		
-229	Woolwich	1868	1969
-230	Hackney		
-230	Shoreditch (orig St Leonards)		1965
-230	Stoke Newington	1930	
-232	Harrow	1947	
-233	Haringey	1965	
-233	Wood Green	1947	1965
-234	Havering	1965	
-236	Hillingdon (pre 1965 Uxbridge)	1965	
-236	Uxbridge		1965
-237	Brentford		1947
-237	Hounslow	1965	
-238	Clerkenwell (orig St James Clerkenwell)		1869
-238	Islington		
-238	St Luke Middlesex		1869
-239	Chelsea (1981 Kensington & _)		
-239	Kensington (to: _ & Chelsea)		
-240	Kingston upon Thames	1965	
-240	Kingston-on-Thames		
-241	Lambeth		
-242	Deptford	1930	1966
-242	Lewisham		
-243	Bishop Gate		1838
-243	City of London		1870
-243	Farringdon		1838
-243	Holborn		1965
-243	London City		
-243	Whitechapel		1926
-244	Kingston (Vale)		1934
-244	Merton	1965	
-246	Bethnal Green (Poplar & _)		
-246	Limehouse (Tower Hamlets)		
-246	Mile End Old Town (Mile End)	1857	1926
-246	Poplar		
-246	St George in the East		1926
-246	St Matthew Bethnal Green		1966
-246	Stepney		
-246	Tower Hamlets	1983	
-247	Ilford	1939	1965
-247	Redbridge	1965	
-248	Richmond-upon-Thames		
-250	Bloomsbury		1838
-250	Camden	1977	
-250	Finsbury	1930	1965
-250	Hampstead		
-250	Pancras		1902
-250	St Giles (& St George Bloomsbury)		1930
-250	St Pancras	1902	
-251	Bermondsey (orig St Mary Magdalen)		1870
-251	Bermondsey	1913	1965
-251	Newington (orig St Mary Newington)		1870
-251	Rotherhithe		1870
-251	Southwark	1901	
-251	St Olave Southwark		1902
-254	Sutton	1965	
-255	Waltham Forest	1965	
-256	Battersea	1930	1965
-256	Wandsworth(orig Wandsorth & Clapham)		
-257	East Ham	1935	1968
-257	Newham	1968	
-257	West Ham		1968
-258	City of Westminster	1933	1965
-258	Marylebone (St. _)		1902
-258	Paddington	1895	
-258	St Martin (LND)	1913	1933
-258	St Martin (in the Fields)		1868
-258	St Marylebone	1902	
-258	Strand		1913
-258	Westminster (orig St Margaret Westmisnter)		
-300	Bath		1996
-300	Bath (& North East Somerset)	1996	
-300	Bathavon	1936	1974
-300	Clutton		1936
-300	Keynsham		1936
-300	Norton Radstock	1936	1974
-301	Bedminster		1899
-301	Bristol		
-301	Clifton		1877
-304	Chipping Sodbury		1937
-304	Sodbury	1937	
-304	South Gloucestershire	1996	
-304	Thornbury		
-307	Long Ashton		1936
-307	North Somerset	1996	
-307	Weston-Super-Mare	1936	
-309	Ampthill (now Bedfordshire)		
-309	Bedford		
-309	Biggleswade (now Beds)		
-309	Dunstable (now Beds)	1969	
-309	Leighton Buzzard now Beds		
-309	Woburn		1899
-315	Luton		
-318	Bracknell	1974	
-318	Bracknell (_ Forest)	1998	
-319	Bradfield		1937
-319	Newbury		
-319	West Berkshire (was Newbury)	1998	
-320	Reading		
-321	Slough	1974	
-322	Cookham		1896
-322	Eton		1974
-322	Maidenhead	1896	1974
-322	Windsor & Maidenhead		
-323	Wokingham		1974
-324	Aylesbury		1985
-324	Aylesbury (Vale)	1985	
-324	Buckingham		1935
-324	Winslow		1935
-326	Milton Keynes	1985	
-326	Newport Pagnell		1935
-326	Wolverton (Milton Keynes)		
-327	Amersham		1974
-327	Chiltern & Beaconsfield	1974	1988
-327	Wycombe		
-331	Cambridge(shire)		
-331	Caxton		1935
-331	Linton		1935
-332	Ely (Isle of _)		
-333	Chesterton		1935
-333	Huntingdon		
-333	St Neots		
-335	Huntingdonshire North	1934	1968
-335	Peterborough		
-338	March (Fenland)	1938	1980
-338	Whittlesey		1974
-338	Wisbech		1980
-339	Fenland	1980	
-340	Chester (& Ellesmere Port)	1870	
-340	Great Boughton		1870
-341	Cheshire	1998	
-341	Northwich		1974
-341	Vale Royal	1974	
-342	Crewe	1937	1974
-343	Halton	1974	
-343	Runcorn (Halton)		1974
-343	Widnes	1968	1974
-344	Congleton		1937
-344	Congleton (& Crewe)	1974	1991
-344	Macclesfield		
-346	Warrington		
-348	Middlesbrough	1875	1968
-349	East Cleveland	1974	
-349	Guisborough		1936
-349	Redcar & Cleveland	1996	
-350	Stockton on Tees	1996	
-351	Hartlepool	1859	1938
-351	West Hartlepool	1938	1967
-354	Bodmin		
-354	Camelford		
-355	Cambourne-Redruth	1974	
-355	Redruth		1974
-359	Falmouth		
-360	Isles Of Scilly	1901	
-360	Scilly Isles		1901
-361	Helston		1936
-361	Kerrier	1936	
-362	Launceston		
-362	St Thomas		1936
-363	Liskeard		
-365	Penzance		
-365	St Ives		1968
-367	St Austell		
-367	St Columb (orig St Columb Major)		1936
-368	St Germans		
-369	Stratton		
-370	Truro		
-373	Barrow-In-Furness	1876	
-375	Brampton (Carlisle)		1937
-375	Carlisle		
-375	Longtown		1939
-376	Cockermouth (Cumbria)		
-377	Kendal (Cumbria)		1937
-377	Sedbergh		1974
-379	Millom	1939	
-380	Appleby	1974	1984
-380	Garrigill (Alston &)		
-380	Penrith (Cumbria)		
-382	Ulverston		
-385	Whitehaven		
-386	Wigton		
-389	Clitheroe		1974
-390	Ashbourne		
-391	Bakewell		
-392	Belper		
-393	Chesterfield		
-394	Derby		
-395	Chapel-en-le-Frith		1974
-395	Glossop	1898	1974
-395	Hayfield		1938
-396	Erewash	1997	
-396	Ilkeston	1938	
-397	Repton	1937	1974
-397	Shardlow		1974
-397	Swadlincote	1974	
-398	High Peak	1974	1839
-404	Barnstaple		
-404	North Devon	1998	
-404	South Molton		1936
-405	Bideford		
-405	Holsworthy		
-405	Torridge (was Bideford)	1998	
-405	Torrington		1937
-408	Exeter		
-410	Axminster		1936
-410	East Devon	1998	
-410	Honiton		
-413	Newton Abbot		
-413	Teignbridge	1998	
-416	Devonport	1898	1937
-416	Plymouth		
-416	Plympton (St Mary)		1974
-417	Kingsbridge		
-417	South Hams	1998	
-417	Totnes		1968
-419	Oakehampton		
-419	Tavistock		
-419	West Devon	1997	
-421	Crediton		1936
-421	Mid Devon	1978	
-421	Tiverton (orig Tiverton & Dulverton)		
-422	Torbay	1968	
-422	Torquay		
-426	East Dorset	1997	
-426	Wimborne & CREATEDanborne (Poole)		1937
-427	Bournemouth	1932	
-427	Bournemouth & Christchurch	1919	1932
-428	West Dorset	1997	
-430	Blandford		1956
-430	North Dorset	1974	
-430	Shaftesbury		1937
-430	Sherbourne		1937
-430	Sturminster		1974
-430	Westbury (orig Westbury & Whorewellsdown)		1936
-431	Poole		
-432	Beaminster		1937
-432	Bridport		
-432	Dorchester		1949
-432	Purbeck		
-432	Wareham (orig Wareham & Purbeck)		1937
-433	Cerne		1838
-433	South Dorset (South & West)	1997	
-433	Weymouth		
-436	Darlington		
-438	Durham Eastern	1938	
-438	Durham Northern	1938	
-438	Durham South Western	1938	
-438	Durham Western	1938	
-439	Easington		1938
-440	Chester-le-Street		1938
-440	Lanchester		1938
-442	Auckland		1938
-442	Sedgefield		1938
-442	Teesdale		1938
-452	Brighton (early-Brighthelmston)		
-452	Brighton (_ & Hove)	1998	
-452	Hove (Brighton & _)	1935	
-454	Eastbourne		
-454	Hailsham		
-456	Battle		1977
-456	Hastings (& Rother)		
-456	Rye		1935
-456	Ticehurst		1935
-459	Chailey		1838
-459	Lewes		
-459	Newhaven		1935
-459	West Firle		1838
-461	Dowborough (was Uckfield)	2000	
-461	Uckfield (now Dowborough)		
-465	Braintree		
-465	Halstead		1972
-465	Witham		1880
-466	Basildon (Brentwood)	1974	1974
-466	Billericay		1939
-466	Brentwood	1939	
-467	Castle Point & Rochford	1999	
-467	Rochford (Castle Point & _)		
-468	Chelmsford		
-468	Maldon		1974
-469	Colchester		
-469	Harwich	1939	1957
-469	Lexden (now Colchester)		1939
-469	Tendring (now Colchester)		1939
-469	Winstree (& Lexden)		
-470	Epping		1974
-470	Epping (Forest)	1974	
-470	Ongar		1939
-472	Harlow	1974	
-475	Southend-on-Sea	1939	
-477	Orsett		1939
-477	Thurrock	1939	
-478	Saffron Walden		1974
-478	Uttlesford	1974	
-479	Cheltenham		
-479	Northleach		1937
-479	Tewkesbury		1937
-479	Winchcombe		1937
-480	Cirencester		
-480	Tetbury		1937
-482	Forest of Dean	1937	
-483	Gloucester (city and rural)		
-483	Newent		1937
-483	Stow-on-the-Wold		1937
-483	Wheatenhurst		1937
-485	North Cotswold	1937	
-487	Dursley		1937
-487	Kingswood	1937	1974
-487	Stroud		
-489	Alton		
-490	Andover		
-490	Stockbridge		1932
-492	Droxford		
-492	Winchester (orig Winchester & Hursley)		
-494	Fordingbridge		1932
-494	Hungerford		1937
-494	Lymington		1932
-494	New Forest		
-494	Ringwood & Fordingbridge		1932
-495	Aldershot	1932	1974
-495	Farnborough		1869
-495	Hartley Wintney		1932
-495	North East Hampshire	1974	
-496	Catherington		1932
-496	Petersfield		
-497	Portsea (_ Island)		1900
-497	Portsmouth	1900	
-499	Gosport	1932	1974
-499	Romsey & Stockbridge		
-499	South Stoneham (& North)		1925
-500	Southampton		
-501	Fareham		1932
-501	Havant		1932
-501	South East Hampshire	1974	
-502	Alresford		
-502	Hursley		1837
-503	Basingstoke		
-503	Kingsclere (& Whitchurch)		
-503	Whitchurch (Hants)		1932
-504	Eastleigh	1925	1932
-504	Hampshire North	2001	
-512	Bromsgrove		
-513	Bromyard		
-514	Droitwich		
-515	Evesham		
-516	Dore (Hereford & _)		
-516	Hereford		
-517	Kidderminster		
-518	Kington		
-519	Ledbury		
-520	Leominster		
-521	Malvern	1952	
-521	Martley		
-521	Upton-on-Severn		1952
-522	Redditch	1997	
-523	Pershore		
-524	Ross		
-525	Tenbury		
-527	Worcester		
-528	Bishops Stortford		
-528	Buntingford		1838
-529	Broxbourne	1974	
-530	Berkhamstead		1974
-530	Dacorum	1974	
-530	Hemel Hempstead		1974
-532	Hatfield		
-533	Hertford (& Ware)		
-533	Ware		1974
-534	Hitchin (& Stevenage)		
-534	Royston		1939
-534	Stevenage (also: Hitchin & _)	1974	
-535	St Albans		
-536	Elstree & Potters Bar	1965	
-536	Watford		
-541	East Riding of Yorkshire		
-542	Beverley (East Riding of Yorks)	1974	1937
-542	Hull	1854	
-542	Patrington (now Beverley)		1937
-542	Skirlaugh		1937
-544	Bridlington (East Riding Yorks)		1937
-544	Bridlington (Hum)	1974	
-544	Driffield		1937
-547	Goole (East Riding of Yorks)		
-547	Howden(shire)		1974
-548	North East Lincolnshire	1996	
-550	Holderness	1937	1974
-550	Hull, City of		
-550	Kingston-upon-Hull (City)		1854
-550	Sculcoates		1937
-552	Pocklington East Riding Yorks		1937
-554	North Lincolnshire	1996	
-556	Isle Of Wight		
-558	Ashford (with Shepway)(Kent)	1941	
-558	East Ashford (Ashford)		1941
-558	Elham		1941
-558	Folkestone	1941	1974
-558	Strood	1885	1923
-558	Tenterden		1941
-558	West Ashford (Ashford West)		1941
-560	Blean		1941
-560	Bridge (Canterbury)		1974
-560	Canterbury (with Swale)(Kent)		
-560	Faversham		1941
-560	Milton		1941
-560	Sheppey (Isle of _)		
-560	Sittingbourne	1941	
-561	Chatham (Medway)	1941	
-561	Medway		1941
-562	Dartford		1980
-562	Gravesend (Kent)	1980	1941
-569	Hollingbourn		1941
-569	Maidstone (Kent)		
-569	Shepway	1974	
-574	Swale	1980	
-575	Dover		
-575	Eastry		1941
-575	Hoo		1923
-575	Thanet (with Dover)(Kent)		
-576	Cranbrook		1941
-576	Sevenoaks		1941
-576	Tonbridge		
-576	Tunbridge Wells (as Tonbridge)	1980	
-580	Blackburn (with Darwen)	1998	
-580	Darwen (Blackburn with _)	1937	1974
-581	Blackpool	1936	1974
-581	Blackpool (& Fylde)	1974	
-582	Burnley		1974
-582	Burnley (& Pendle)	1974	
-582	Nelson	1936	1974
-583	Chorley		
-584	Fleetwood	1974	1982
-584	Fleetwood (& Fylde)	1998	
-584	Fylde		1974
-586	Haslingden		1974
-586	Hyndburn & Rossendale	1974	
-587	Garstang		
-587	Lancaster		
-587	Lunesdale (_ View)	1869	1974
-588	Preston (& South Ribble)		
-588	Ribble Valley	1974	
-590	Ormskirk (West Lancashire)		1974
-590	West Lancashire	1974	
-600	Leicester		1974
-600	Leicestershire (Central)	1949	
-604	Ketton	1934	1974
-604	Oakham		1974
-604	Rutland	1974	
-604	Uppingham		1974
-605	Ashby-de-la-Zouche		1949
-605	Barrow-on-Soar		1949
-605	Billesdon		1949
-605	Blaby		1949
-605	Coalville	1949	
-605	Hinckley (Leicestershire)		
-605	Loughborough		
-605	Lutterworth		1974
-605	Market Bosworth		
-605	Market Harborough		
-605	Melton & Rutland	1995	
-605	Melton Mowbray		
-609	Minster		
-610	Boston (now Lincolnshire)		
-611	Bourne & South Kesteven	1934	1974
-611	Bourne		1935
-612	Caistor (now Lincolnshire)		
-613	East Elloe (now Lincolnshire)	1936	
-613	Holbeach		1936
-615	Gainsborough (now Lincolns.)		
-616	Grantham & West Kesteven		
-617	Horncastle (now Lincolnshire)		
-619	Lincoln (now Lincolnshire)		
-619	North Kesteven	1934	1974
-619	Welton	1934	1974
-620	Louth (now Lincolnshire)		
-623	Sleaford & East Kesteven		
-625	Spalding (now Lincolnshire)		
-626	Spilsby (now Lincolnshire)		
-627	Stamford (now Lincolnshire)		
-632	Depwade		
-634	East Dereham	1939	
-634	Launditch		
-635	Fakenham	1939	
-635	Walsingham		1939
-636	East & West Flegg (see Flegg)		1925
-636	Flegg (orig East & West Flegg)		1925
-636	Great Yarmouth	1939	
-636	Yarmouth (Great _ & Flegg)		1939
-637	Docking		1939
-637	King's Lynn		
-638	Erpingham		1939
-638	Happing (became Tunstead)		
-638	North Walsham	1939	
-638	Smallburgh	1870	1939
-638	Tunstead (Tunstead & Happing)		1870
-639	Acle	1939	1974
-639	Aylesham		1939
-639	Blofield		1939
-639	Downham		
-639	Forehoe		1939
-639	Loddon (orig Loddon & Clavering)		1939
-639	Norwich		
-639	Norwich Outer	1939	1991
-643	Swaffham		1939
-643	Thetford		1939
-643	Wayland		
-650	Askrigg		1869
-650	Aysgarth	1869	1936
-650	Barkston Ash (prv Tadcaster)	1947	1974
-650	Bedale		1936
-650	Bulmer (Thirsk/York)	1936	1974
-650	Claro (North Yorkshire)	1947	
-650	Easingwold		1936
-650	Great Ousebourn	1854	1947
-650	Helmsley		1936
-650	Kirk Deighton	1861	1869
-650	Knaresborough		1947
-650	Leyburn		1936
-650	Malton		1936
-650	Northallerton		
-650	North Yorkshire	1998	
-650	Pateley Bridge		1947
-650	Pickering		1936
-650	Richmond (Yorks)		
-650	Ripon		1947
-650	Ryedale	1936	
-650	Scarborough		
-650	Selby		
-650	Settle		1947
-650	Skipton		1947
-650	Stokesley		1936
-650	Tadcaster		1947
-650	Thirsk		
-650	Whitby		
-661	York (1941 - 1946 = 9C)		
-667	Corby (pre. Kettering)	1974	
-669	Kettering		
-670	Brixworth		1974
-670	Daventry		
-670	Hardingstone		1925
-670	Northampton		
-670	Northampton (& Hardingstone)	1925	1936
-671	Oundle (& Thrapston)		
-671	Thrapston		1974
-672	Brackley		
-672	Potterspury		1935
-672	Towcester (_ & Brackley)		
-673	Wellingborough		
-677	Northumberland (Central)	1937	
-677	Wensleydale	1936	1988
-678	Belford		1937
-678	Berwick-on-Tweed		1937
-678	Northumberland (North First)	1937	
-679	Alnwick		
-679	Northumberland (Nth Second)	1937	
-679	Rothbury		1937
-680	Bellingham		1937
-680	Haltwhistle		1937
-680	Hexham		1937
-680	Northumberland West	1937	
-686	East Retford		
-686	Worksop		
-687	Mansfield		
-688	Newark		
-688	Southwell		1974
-689	Basford		
-689	Nottingham		
-689	Radford		1880
-690	Bingham		1974
-690	Rushcliffe	1974	
-695	Abingdon		
-695	Banbury		
-695	Bicester		1932
-695	Chipping Norton		1982
-695	Faringdon		1937
-695	Headington		1933
-695	Henley		
-695	Oxford		
-695	Thame		1932
-695	Wallingford		
-695	Wantage		
-695	West Oxfordshire	1982	
-695	Witney		1982
-695	Woodstock		1932
-703	Bullingdon	1964	
-703	Ploughley & Bullingdon	1932	
-710	Bridgnorth		
-710	Shifnal		1935
-711	Clun		
-712	Church Stretton		1935
-712	Cleobury Mortimer		1935
-712	Ludlow		
-713	Drayton		1935
-713	Market Drayton		1935
-713	North Shropshire	1970	
-713	Wem (orig Wem & Whitechurch)		1935
-713	Weobley		
-713	Whitchurch (Salop)		1970
-714	Ellesmere		1935
-714	Oswestry		
-715	Atcham		1935
-715	Shrewsbury		
-715	Westbury-on-Severn		1937
-716	Wellington (Salop)		1974
-716	Wrekin (& Telford)	1974	
-721	Frome		1974
-721	Mendip	1974	
-721	Shepton Mallet		1936
-721	Wells		1974
-723	Axbridge		1936
-723	Bridgwater		1974
-723	Sedgemoor	1974	
-724	Taunton (Deane)		
-724	Wellington (Somerset)		1936
-725	Dulverton		1936
-725	Exmoor	1936	1974
-725	West Somerset	1974	
-725	Williton		1936
-726	Chard		1974
-726	Langport		1936
-726	Wincanton		1974
-726	Yeovil (South Somerset)		
-730	Cannock (Chase)	1877	
-731	Burton-on-Trent		
-731	East Staffordshire	1974	
-731	Uttoxeter		1939
-732	Lichfield		
-732	Tamworth		1939
-733	Madeley		1935
-733	Newcastle-under-Lyme		
-733	Wolstanton (orig Wolstanton & Burslem)		1922
-734	Penkridge		1877
-735	Stafford		
-735	Stone		1937
-735	Tunstall		
-736	Cheadle		1974
-736	Leek (orig Leek & Longnor)		1974
-737	Stoke & Wolstanton	1922	1935
-737	Stoke-on-Trent	1935	
-737	Stoke-upon-Trent		1922
-738	South Staffordshire	1974	
-738	Staffordshire Moorlands	1974	
-742	Bury St Edmunds		
-742	Mildenhall		1938
-742	Newmarket		
-742	Wangford		1935
-743	Woodbridge		1935
-745	Claydon (Bosmere & _)		
-745	Deben (Debenham)	1935	
-745	Gipping (& Hartismere)	1935	
-745	Hartismere (Gipping & _)		
-745	Hoxne		1907
-747	Ipswich		
-752	Sudbury		
-753	Blyth	1935	
-753	Lothingland	1935	1974
-753	Mutford (orig Mutford & Lothingland)		1935
-753	Wainford	1935	1948
-753	Waveney	1974	
-755	Dorking		1934
-755	Epsom		1934
-755	Godstone		1934
-755	Reigate		1934
-756	Surrey Mid	1996	
-757	Chertsey		1934
-757	Staines		1947
-761	Christchurch (Bournemouth)		1974
-761	Farnham (or NW & SW Surrey)		1934
-761	Guildford		1934
-761	Hambledon		1934
-761	Surrey West	1996	
-767	Atherstone		1974
-767	North Warwickshire	1974	
-768	Nuneaton (& Bedworth)		
-770	Leamington & Warwick		
-770	Rugby		
-773	Alcester		
-773	Shipston on Stour		
-773	Stratford on Avon		
-775	Southam		
-775	Warwick & Leamington		1985
-776	Mid Warwickshire	1985	
-776	South Warwickshire	1985	
-779	Chichester		
-779	Midhurst & Petworth (Chichester)		1974
-779	Petworth		1935
-779	Westbourne		1935
-779	Westhampnett		1935
-780	Crawley	1974	
-780	East Grinstead		1935
-781	Cuckfield		1980
-781	Haywards Heath	1980	
-783	Horsham		
-786	Chanctonbury	1935	1974
-786	Steyning		1935
-786	Thakeham		1935
-786	Worthing		
-788	Calne		1936
-788	Chippenham		
-788	Cricklade (Swindon)		1936
-788	Malmesbury		1936
-789	Devizes (& Marlborough)		
-789	Marlborough (_ & Devizes)		
-789	Pewsey		1936
-795	Amesbury		1936
-795	Mere		1978
-795	Salisbury		
-795	Tisbury		1936
-795	Wilton		1936
-796	Highworth		1899
-796	Swindon	1899	
-797	Bradford-on-Avon		1936
-797	Melksham		1936
-797	Trowbridge	1936	
-798	Warminster		
-800	Flintshire East	1996	
-800	Flintshire West	1996	
-800	Hawarden	1903	1974
-802	Colwyn (or - Bay)	1974	
-803	Holywell		1974
-805	Corwen		1935
-805	Denbighshire S (De Sir Ddinbych)	1996	
-805	Ruthin		1974
-811	Denbigh N (Gogledd Sir Ddinbych	1996	
-811	Rhuddlan (Denbighshire North)	1974	
-811	St Asaph		1974
-813	Maelor	1954	1974
-813	Overton (Wrexham Maelor)	1935	1954
-813	Wrexham (Maelor)		
-815	Aberayron		1936
-815	Lampeter		1936
-815	Tregaron		1936
-816	Aberystwith		
-817	Bridgend & Cowbridge		1970
-817	Bridgend (1996 - from Ogwr)	1996	
-818	Carmarthen		
-818	Llandovery		1935
-818	Newcastle in Emlyn		1936
-819	Haverfordwest Pembrokeshire		
-819	South Pembrokeshire	1983	
-821	Narberth		1974
-821	Pembroke		
-833	Blaenau Gwent	1974	
-833	Crickhowell		1974
-836	Caerleon	1936	1974
-836	Newport (Monmouth)		
-837	Pontypool		
-837	Torfaen	1996	
-839	Abergavenny		
-839	Chepstow		1968
-839	Llanelli	1974	
-839	Llanelly		1974
-839	Monmouth(shire) Sir Fynwy		1939
-840	Ardudwy	1974	
-840	Ffestiniog		1935
-841	Bangor		
-842	Caernarfon (Caernarvon)	1974	
-842	Caernarvon	1937	1974
-842	Carnarvon		1937
-845	Llanrwst		1935
-846	Dwyffryn Conwy	1974	1975
-852	Bala		1935
-853	Pwllheli & Portmadog	1974	
-853	Pwllheli & Portmadoc		1974
-857	Holyhead	1885	1937
-857	Ynys Mon (Anglesey)	1974	
-860	Merthyr Tydfil		
-860	Vaynor (Merthyr Tydfil)	1933	1974
-861	Mid Glamorgan	1970	1974
-862	Pontypridd Rhondda Cynon Taf	1863	
-863	Bedwelty (or Bedwellty)	1861	1974
-863	Caerphilly	1996	
-866	Brecknock		
-867	Builth		
-867	Mid Powys	1988	
-867	Rhayader (orig Nantmel & Rhayader)		1933
-870	Hay		
-874	Machynlleth		
-875	Llandiloes		
-875	Newtown (orig Newtown & Llanidloes)		
-876	Knighton		1933
-876	Presteigne		1877
-876	Radnorshire East	1933	
-880	Forden	1870	1936
-880	Llanfyllin		
-880	Montgomery		1870
-880	Welshpool (& Llanfyllin)	1936	
-881	Ystradgynlais	1935	
-890	Cardiff (74-96 South Glamorgan)		1974
-890	Cardigan		1936
-890	Cardiganshire (North, South & Central)	1936	
-891	Cowbridge (Vale of Glamorgan)		
-891	Penllyn	1974	
-896	Neath (& Port Talbot)		
-896	Pontardawe	1875	1935
-897	Gower	1858	1934
-897	Swansea		
+registration-district	name	start-date	end-date	1837	1852	1946	1965	1974	1993	1997	abolished
+	Alderbury		1895	8	5A						96
+	Aled	1935	1974		11B	8A	8A				1
+	Alston (Penrith)		1974	25	10B	1A	1A				86
+	Alverstoke		1932	7	2B						2
+	Alyn & Deeside	1974						24	53		3
+	Amber Valley	1994							6		6
+	Amounderness	1935	1974		8E	10B	10B				4
+	Anglesey (east and west)	1937	1969		11B	8A					5
+	Ashton	1937	1974		8D	10B	10B				6
+	Ashton-under-Lyne		1937	20	8D						7
+	Barton Regis	1877	1905		6A						87
+	Blything		1935	13	4A						97
+	Bootle (Cul)		1939	25	10B						98
+	Border	1937	1974		10B	1A	1A				8
+	Bosmere		1935	12	4A						9
+	Bramham	1862	1869		9C						99
+	Bramley	1863	1929		9B						92
+	Brightford			3	3A	-	-	-	-		0
+	Buckrose	1937	1974		9D	2A	2A				10
+	Calder	1938	1974		9A	2B	2B				11
+	Camberwell		1991	4	1D	5C	5C	11			12
+	Castle Ward		1937	25	10B						13
+	Central Cleveland	1974						3	22		15
+	Cleethorpes	1934	1974		7A	3B	3B				14
+	Cleveland	1936	1974		9D	1B	1B				15
+	Conway (Valley)		1974	27	11B	8A	8A				16
+	Cornwall			-	5C	-	-	-	-		0
+	Cosford		1938	12	4A						17
+	Cumberland			-	10B	-	-	-	-		0
+	De Meirionwydd	1974						25	56		0
+	Delyn	1974						24	53		85
+	Devon Central	1936	1974		5B	7A	7A				18
+	Dolgelly		1935	27	11B						19
+	Don Valley	1938	1974		9C	2B	2B				20
+	Dunmow		1968	12	4A	4A	4A				21
+	Durham Central (NEW)	1938	1971		10A	1A	1A				22
+	Durham North Eastern	1938	1974		10A	1A	1A				23
+	Durham North Western	1938	1974		10A	1A	1A				24
+	Durham South Eastern	1938	1971		10A	1A	1A				22
+	East Glamorgan	1935	1974		11A	8B	8B				25
+	East London		1870	2	1C						100
+	East Preston	1870	1935		2B						26
+	East Stonehouse		1937	9	5B						27
+	East Ward		1937	25	10B						29
+	Easthampstead		1937	7	2C						28
+	Ecclesall Bierlow		1935	22	9C						30
+	Ecclesfield		1850	22							93
+	Essex South West	1935	1965		4A	5A	5A				31
+	Ewecross	1947				2C	2C	2	2		32
+	Freebridge Lynn		1939	13	4B						33
+	Glanford Brigg		1938	14	7A						34
+	Glendale		1937	25	10B						35
+	Glyndwr	1974						24	53		36
+	Grimsby	1897			7A	3B	3B	7	35		37
+	Guiltcross		1902	13	4B						101
+	Henstead (orig Humbleyard & Henstead)		1939	13	4B						38
+	Hiraethog	1935	1974		11B	8A	8A				39
+	Llandilofawr		1935	26	11A						40
+	Lower Agbrigg	1939	1974		9C	2C	2C				41
+	Malling		1941	5	2A						42
+	Merioneth	1935	1974		11B	8C	8C				43
+	Middlesex South	1947	1965			5F					44
+	Mitford (orig Mitford & Lanunditch)		1939	13	4B						45
+	Morpeth		1937	25	10B						46
+	Nantwich		1937	19	8A						47
+	Newport (Salop)		1935	18	6A						48
+	Norfolk			-	4B	4B	-	-	-		0
+	North Aylesford		1885	5	2A						102
+	North Bierley	1892	1938		9B						49
+	North Bucks	1935	1985		3A	6A	6A	19			50
+	North Cleveland	1974						3	22		51
+	North East Cheshire	1937	1974		8A	10A	10A				52
+	North Witchford		1938	14	3B						53
+	Northumberland South	1936	1974		10B	1B	1B				54
+	Ogwr	1974						27	27		55
+	Oldbury	1932	1966		6C	9D	9D				56
+	Orpingham			-	3B	-	-	-	-		0
+	Plomesgate		1935	12	4A						57
+	Radnorshire West	1933	1988		11B	8C	8C	28			58
+	Reeth		1936	24	9D						60
+	Risbridge		1938	12	4A						59
+	Romford		1965	12	4A	5A	5A				61
+	Romney Marsh		1941	5	2A						62
+	Rother Valley	1938	1974		9C	2C	2C				63
+	Samford		1974	12	4A	4B	4B				70
+	Scunthorpe	1938			7A	3B	3B	7	35		71
+	Sidcup	1941	1965		2A	5B					95
+	South Glamorgan (Vale of _)	1974						28	59		72
+	Sowe			16	6D	9C	9C	34	8		103
+	Spen Valley	1939	1974		9B	2D	2D				73
+	St Faiths		1939	13	4B						64
+	St George Hanover Square		1933	1	1A						65
+	St George the Martyr (Southwark)		1870	4	1D						66
+	St James Bermondsey			4	1D	5D	5E	15	16		66
+	St James Clerkenwell		1869	3	1B						67
+	St Mary Magdalene		1870	4	1D						66
+	St Mary Newington		1870	4	1D						69
+	St Olave Bermondsey	1902	1913		1D						66
+	St Saviour (Southwark)		1901	4	1D						66
+	Stockton (orig Stockton & Segdefield)		1938	24	10A						74
+	Stoke Damerel		1898	9	4B						104
+	Stow (Suffolk)		1935	12	4A						75
+	Surrey Mid Eastern	1934			2A	5G	5G	17	49		89
+	Surrey Northern	1934	1965		2A	5G		17	49		90
+	Surrey North East	1934	1965		2A	5G					76
+	Surrey North West	1934			2A	5G	5G	17	49		92
+	Surrey South East	1934			2A	5G	5G	17	49		91
+	Surrey South West	1934			2A	5G	5G	17	49		88
+	Sussex (County of _)			-	2B	-	-	-	-		0
+	Teesside (also North & South)	1968	1974				1B				96
+	Thingoe		1908	13	4A						105
+	Upper Agbrigg	1939	1974		9A	2D	2D				77
+	Weardale		1938	24	10A						78
+	Wenlock	1935	1948		6A	9A					79
+	West Bridgford	1976	1988					8			84
+	West Cheshire	1937	1974		8A	10A	10A				80
+	West Glamorgan	1935	1974		11A	8B	8B				81
+	West London (London West)		1870	2	1C						106
+	West Ward		1937	25	10B						83
+	Westmorland (North & South)	1937	1974		10B	1B	1B				83
+	Worsley		1850	20							107
+2	Bolton			21	8C	10B	10B	38	1	2	
+2	Farnworth	1935	1974		8C	10C	10C			2	
+2	Horwich	1935	1968		8C	10C				2	
+3	Bury			21	8C	10B	10B	38	1	3	
+6	Ardwick			20	8D	10E	10E	38	1	6	
+6	Chorlton		1925	20	8C					6	
+6	Manchester			20	8D	10E	10E	38	1	6	
+6	Manchester Chorlton			20	8C	10E	10E	38	1	6	
+6	Prestwich		1925	20	8D					6	
+6	South Derbyshire	1997								6	
+7	Oldham			20	8D	10F	10F	39	1	7	
+7	Saddleworth		1974	23	9A	2C	2C			7	
+9	Bedfordshire	1999								9	
+9	Heywood	1934	1974		8C	10C	10C			9	
+9	Littleborough	1936	1974		8E	10D	10D			9	
+9	Middleton	1933	1974		8D	10E	10E			9	
+9	Rochdale			21	8E	10F	10F	39	1	9	
+11	Salford			20	8D	10F	10F	39	2	11	
+13	Stockport			19	8A	10A	10A	39	2	13	
+14	Hyde	1937	1974		8A	10A	10A			14	
+14	Newton	1934	1974		8C	10F	10F			14	
+14	Tameside	1974						39	2	14	
+15	Altrincham		1898	19	8A					15	
+15	Barton	1934	1980		8C	10B	10B	39		15	
+15	Barton on-Irwell		1934	20	8C					15	
+15	Bucklow	1898	1974		8A	10A	10A			15	
+15	Trafford	1974						39	2	15	
+16	Strood & Hoo	1923	1941		2A					16	
+17	East Surrey	2000								17	
+17	Mid Surrey	1996							49	17	
+17	North Surrey	1996							49	17	
+17	South East Surrey	1996							17	17	
+17	West Surrey	1996							49	17	
+18	Ince	1936	1974		8C	10C	10C			18	
+18	Leigh (Wigan & _)			21	8C	10D	10D	39	2	18	
+18	Wigan			21	8C	10F	10F	39	2	18	
+18	Wigan & Leigh	1995							39	18	
+19	Chiltern & South Bucks	1988						19	19	19	
+19	Chiltern Hills	1988						19	19	19	
+19	Easthampstead	1970	1974				6A			19	
+23	Knowsley	1974						36	3	23	
+25	Aberconwy	1975						25	25	25	
+25	Anglesey		1974	27	11B		8A		56	25	
+25	Dwyfor	1996							56	25	
+25	Everton			20	8B	10D	10D	36	3	25	
+25	Liverpool			20	8B	10D	10D	36	3	25	
+25	Toxteth Park	1881	1925		8B					25	
+25	West Derby		1934	20	8B					25	
+28	Vale of Glamorgan	1996							59	28	
+30	Dawley	1974						18	51	30	
+30	Matlock		1839	19						30	
+30	Prescot		1974	20	8B	10F	10F			30	
+30	St Helens	1935			8B	10F	10B	37	3	30	
+30	Telford & Wrekin	1998								30	
+32	Bootle (Lan)	1934			8C	10B	10B	37	3	32	
+32	Crosby (Sefton South)	1934			8B	10C	10C	37	3	32	
+32	Sefton (North & South)	1980						37	3	32	
+34	Southport	1934			8B	10F	10F	37	3	34	
+35	South Cheshire	1991						35	35	35	
+37	Birkenhead	1861			8A	10A	10A	37	3	37	
+37	Wallasey	1936			8A	10A	10A	37	3	37	
+37	Wirral		1974	19	8A	10A	10A			37	
+40	Blackburn			21	8E	10B	10B	40	40	40	
+41	Barnsley			22	9C	2B	2B	3	4	41	
+41	Penistone	1911	1947		9C	2C				41	
+41	Staincross	1938	1974		9C	2D	2D			41	
+42	Doncaster			22	9C	2B	2B	3	4	42	
+42	Thorne		1947	23	9C	2D				42	
+45	Rotherham			22	9C	2C	2C	3	4	45	
+48	Sheffield			22	9C	2D	2D	3	4	48	
+51	Gateshead			24	10A	1A	1A	2	5	51	
+53	Newcastle-upon-Tyne			25	10B	1B	1B	2	5	53	
+54	North Shields							2	5	54	
+54	North Tyneside	1985	1985					2		54	
+54	Tynemouth		1974	25	10B	1B	1B			54	
+57	Jarrow (South Tyneside)	1974						2	5	57	
+57	South Shields (Sth Tyneside)			24	10A	1A	1A	2	5	57	
+57	South Tyneside	2001								57	
+58	Houghton-le-Spring		1938	24	10A					58	
+58	Sunderland			24	10A	1A	1A	2	5	58	
+61	Aston		1924	16	6D					61	
+61	Birmingham (North & South)	1924	1932		6D					61	
+61	Birmingham			16	6D	9C	9C	32	6	61	
+61	King's Norton (& Birmingham)		1924	18	6C					61	
+61	Sutton Coldfield	1939	1974		6D	9C	9C			61	
+63	Coventry			16	6D	9C	9C	33	7	63	
+63	Foleshill		1932	16	6D					63	
+65	Dudley			18	6B/6C	9D	9B	33	7	65	
+65	Kingswinford	1934	1937		6B					65	
+66	Stourbridge (now Dudley)			18	6C	9D	9D	33	7	66	
+70	Rowley Regis	1935	1966		6B	9B				70	
+70	Sandwell	1974						33	8	70	
+70	Smethwick	1932	1966		6B	9B	9B			70	
+70	Warley (East & West)	1969	1974				9D			70	
+70	Wednesbury	1932	1966		6B	9B	9B			70	
+70	West Bromwich		1974	18	6B	9B	9B			70	
+73	Meriden		1978	16	6D	9C	9C	34		73	
+73	Solihull		1978	11	6D	9C	9C	34		73	
+73	Solihull North	1978						34	8	73	
+73	Solihull South	1978						34	8	73	
+75	Aldridge & Brownhills	1966	1974				9B			75	
+75	Walsall			17	6B	9B	9B	34	8	75	
+77	Bilston	1935	1966		6B	9B				77	
+77	Seisdon		1974	17			9B			77	
+81	Bradford			23	9B	2B	2B	4	9	81	
+81	Wharfedale	1861	1981		9A	2D	2D	5		81	
+82	Keighley			23	9A	2C	2C	4	4	82	
+83	Worth Valley	1947	1974			2C	2C			83	
+86	Calderdale			22	9A	2B	2B	4	9	86	
+86	Halifax (now Calderdale)			22	9A	2B	2B	4	9	86	
+86	Todmorden (now Calderdale)			21	9A	2D	2D	4	9	86	
+88	Dewsbury			22	9B	2B	2B	4	9	88	
+88	Staincliffe	1947				2D	2D	2	2	88	
+89	Huddersfield			22	9A	2B	2B	4	9	89	
+92	Holbeck	1862	1929		9B					92	
+92	Hunslet		1929	23	9B					92	
+92	Kirkstall	1862	1869		9B					92	
+92	Leeds (& North, South)			23	9B	2C	2C	5	12	92	
+92	Otley		1869	23	9A					92	
+92	Wetherby	1954	1947		9A	2D				92	
+92	Wortley		1974	22	9C	2D	2D			92	
+98	Castleford	1862	1868		9C					98	
+98	Hemsworth		1974	22	9C	2B	2B			98	
+98	Pontefract			22	9C	2C	2C	5	10	98	
+99	Wakefield			22	9C	2D	2D	5	10	99	
+218	Barking	1965	1989				5A	11		218	
+218	Barking (& Dagenham)	1989							11	218	
+219	Barnet			6	3A	5A	5A	11	11	219	
+219	Hendon			3	3A	5F	5F	13	13	219	
+220	Bexley	1965				5A	5A	11	11	220	
+221	Brent (Willesden)	1965					5A	11	11	221	
+221	Willesden (Brent from 1965)	1909	1965		3A	5F				221	
+222	Bromley			5	2A	5B	5B	11	11	222	
+225	Croydon			4	2A	5G	5A	11	11	225	
+226	Ealing	1947				5E	5B	12	12	226	
+227	Edmonton		1965	3	3A	5E	5E			227	
+227	Enfield	1965					5B	12	12	227	
+228	Fulham (Hammersmith & _)	1875			1A	5C	5C	12	12	228	
+228	Hammersmith (& Fulham)	1913			1A	5C	5C	12	13	228	
+229	Greenwich			5	1D	5C	5C	12	12	229	
+229	Woolwich	1868	1969		1D	5D	5E			229	
+230	Hackney			3	1B	5C	5C	12	13	230	
+230	Shoreditch (orig St Leonards)		1965	2	1C	5D				230	
+230	Stoke Newington	1930			1B	5D	5E	15	13	230	
+232	Harrow	1947				5F	5B	12	13	232	
+233	Haringey	1965					5B	12	13	233	
+233	Wood Green	1947	1965			5F				233	
+234	Havering	1965				5C	5C	13	13	234	
+236	Hillingdon (pre 1965 Uxbridge)	1965					5C	13	14	236	
+236	Uxbridge		1965	3	3A	5F				236	
+237	Brentford		1947	3	3A	5E				237	
+237	Hounslow	1965					5C	13	14	237	
+238	Clerkenwell (orig St James Clerkenwell)		1869	3	1B					238	
+238	Islington			3	1B	5C	5C	13	14	238	
+238	St Luke Middlesex		1869	2	1B					238	
+239	Chelsea (1981 Kensington & _)			3	1A	5C	5C	11	14	239	
+239	Kensington (to: _ & Chelsea)			3	1A	5C	5C	13	14	239	
+240	Kingston upon Thames	1965					5C	13	14	240	
+240	Kingston-on-Thames			4	2A	5B	5C	13	14	240	
+241	Lambeth			4	1D	5C	5D	14	18	241	
+242	Deptford	1930	1966		1D	5C	5D			242	
+242	Lewisham			5	1D	5D	5D	14	15	242	
+243	Bishop Gate		1838	2						243	
+243	City of London		1870	2	1C					243	
+243	Farringdon		1838	2						243	
+243	Holborn		1965	2	1B	5C	5C			243	
+243	London City			2	1C	5D	5D	14	14	243	
+243	Whitechapel		1926	2	1C					243	
+244	Kingston (Vale)		1934	4	2A					244	
+244	Merton	1965				5D	5D	14	15	244	
+246	Bethnal Green (Poplar & _)			2	1C	5C	5D	14	15	246	
+246	Limehouse (Tower Hamlets)			2	1C	5D	5D	14	15	246	
+246	Mile End Old Town (Mile End)	1857	1926		1C					246	
+246	Poplar			2	1C	5D	5D	14	15	246	
+246	St George in the East		1926	2	1C					246	
+246	St Matthew Bethnal Green		1966	2	1C	5C	5D			246	
+246	Stepney			2	1C	5D	5D	15	15	246	
+246	Tower Hamlets	1983						14	15	246	
+247	Ilford	1939	1965		4A	5A				247	
+247	Redbridge	1965					5D	14	15	247	
+248	Richmond-upon-Thames			4	2A	5D	5D	14	15	248	
+250	Bloomsbury		1838	1						250	
+250	Camden	1977						14	16	250	
+250	Finsbury	1930	1965		1B	5C				250	
+250	Hampstead			3	1A	5C	5C	12	16	250	
+250	Pancras		1902	1	1B					250	
+250	St Giles (& St George Bloomsbury)		1930	1	1B					250	
+250	St Pancras	1902			1B	5D	5D	14	16	250	
+251	Bermondsey (orig St Mary Magdalen)		1870	4	1D					251	
+251	Bermondsey	1913	1965		1D	5C				251	
+251	Newington (orig St Mary Newington)		1870	4	1D					251	
+251	Rotherhithe		1870	4	1D					251	
+251	Southwark	1901			1D	5D	5E	15	16	251	
+251	St Olave Southwark		1902	4	1D					251	
+254	Sutton	1965					5E	15	16	254	
+255	Waltham Forest	1965					5E	15	16	255	
+256	Battersea	1930	1935		1D	5C				256	
+256	Wandsworth(orig Wandsorth & Clapham)			4	1D	5D	5E	15	16	256	
+257	East Ham	1935	1968		4A	5A	5E			257	
+257	Newham	1968					5E	15	16	257	
+257	West Ham		1968	12	4A	5A	5E			257	
+258	City of Westminster	1933	1965		1A	5C				258	
+258	Marylebone (St. _)		1902	1	1A					258	
+258	Paddington	1895			1A	5D	5D	14	16	258	
+258	St Martin (LND)	1913	1933		1A					258	
+258	St Martin (in the Fields)		1868	1	1A					258	
+258	St Marylebone	1902			1A	5D	5D	14	16	258	
+258	Strand		1913	1	1B					258	
+258	Westminster (orig St Margaret Westmisnter)			1	1A	5C	5E	15	16	258	
+300	Bath		1996	11	5C	7C	7C	22		300	
+300	Bath (& North East Somerset)	1996							17	300	
+300	Bathavon	1936	1974		5C	7C	7C			300	
+300	Clutton		1936	11	5C					300	
+300	Keynsham		1936	11	5C					300	
+300	Norton Radstock	1936	1974		5C	7C	7C			300	
+301	Bedminster		1899	11	5C					301	
+301	Bristol			11	6A	7B	7B	22	17	301	
+301	Clifton		1877	11	6A					301	
+304	Chipping Sodbury		1937	11	6A					304	
+304	Sodbury	1937			6A	7B	7B	22	17	304	
+304	South Gloucestershire	1996							22	304	
+304	Thornbury			11	6A	7B	7B	22	17	304	
+307	Long Ashton		1936	11	5C					307	
+307	North Somerset	1996							22	307	
+307	Weston-Super-Mare	1936			5C	7C	7C	22	17	307	
+309	Ampthill (now Bedfordshire)			6	3B	4A	4A	9	9	309	
+309	Bedford			6	3B	4A	4A	9	17	309	
+309	Biggleswade (now Beds)			6	3B	4A	4A	9	17	309	
+309	Dunstable (now Beds)	1969					4A	9	9	309	
+309	Leighton Buzzard now Beds			6	3B	4A	4A	9	17	309	
+309	Woburn		1899	6	3B					309	
+315	Luton			6	3B	4A	4A	9	17	315	
+318	Bracknell	1974						19	19	318	
+318	Bracknell (_ Forest)	1998								318	
+319	Bradfield		1937	6	2C					319	
+319	Newbury			6	2C	6A	6A	19	18	319	
+319	West Berkshire (was Newbury)	1998								319	
+320	Reading			6	2C	6A	6A	19	18	320	
+321	Slough	1974						19	18	321	
+322	Cookham		1896	6	2C					322	
+322	Eton		1974	6	3A	6A				322	
+322	Maidenhead	1896	1974		2C	6A	6A			322	
+322	Windsor & Maidenhead			6	2C	6A	6A	19	18	322	
+323	Wokingham		1974	6	2C	6A	6A			323	
+324	Aylesbury		1985	6	3A	6A	6A	19		324	
+324	Aylesbury (Vale)	1985						19	19	324	
+324	Buckingham		1935	6	3A					324	
+324	Winslow		1935	6	3A					324	
+326	Milton Keynes	1985						19	19	326	
+326	Newport Pagnell		1935	6	3A					326	
+326	Wolverton (Milton Keynes)			6	3A	6A	6A	19	19	326	
+327	Amersham		1974	6	3A	6A	6A			327	
+327	Chiltern & Beaconsfield	1974	1988					19		327	
+327	Wycombe			6	3A	6A	6A	19	19	327	
+331	Cambridge(shire)			14	3B	4A	4A	9	20	331	
+331	Caxton		1935	14	3B					331	
+331	Linton		1935	14	3B					331	
+332	Ely (Isle of _)			14	3B	4A	4A	9	20	332	
+333	Chesterton		1935	14	3B					333	
+333	Huntingdon			14	3B	4B	4B	9	20	333	
+333	St Neots			14	3B	4B	4B	14	20	333	
+335	Huntingdonshire North	1934	1968		3B	4B				335	
+335	Peterborough			15	3B	3B	3B	9	20	335	
+338	March (Fenland)	1938	1980		3B	4A	4A	9		338	
+338	Whittlesey		1974	14	3B	4A	4A			338	
+338	Wisbech		1980	14	3B	4A	4A	9		338	
+339	Fenland	1980						9	20	339	
+340	Chester (& Ellesmere Port)	1870			8A	10A	10A	35	21	340	
+340	Great Boughton		1870	19	8A					340	
+341	Cheshire	1998								341	
+341	Northwich		1974	19	8A	10A	10A			341	
+341	Vale Royal	1974						35	21	341	
+342	Crewe	1937	1974		8A	10A	10A			342	
+343	Halton	1974						35	35	343	
+343	Runcorn (Halton)		1974	19	8A	10A	10A			343	
+343	Widnes	1968	1974				10F			343	
+344	Congleton		1937	19	8A					344	
+344	Congleton (& Crewe)	1974	1991					35		344	
+344	Macclesfield			19	8A	10A	10A	35	21	344	
+346	Warrington			20	8C	10F	10F	35	21	346	
+348	Middlesbrough	1875	1968		9D	1B	1B		3	348	
+349	East Cleveland	1974						3	22	349	
+349	Guisborough		1936	24	9D					349	
+349	Redcar & Cleveland	1996							3	349	
+350	Stockton on Tees	1996							3	350	
+351	Hartlepool	1859	1938		10A		1A	3	3	351	
+351	West Hartlepool	1938	1967		10A	1A	1A			351	
+354	Bodmin			9	5C	7A	7A	21	23	354	
+354	Camelford			9	5C	7A	7A	21	21	354	
+355	Cambourne-Redruth	1974						21	23	355	
+355	Redruth		1974	9	5C	7A	7A			355	
+359	Falmouth			9	5C	7A	7A	21	23	359	
+360	Isles Of Scilly	1901			5C	7A	7A	21	23	360	
+360	Scilly Isles		1901	9	5C					360	
+361	Helston		1936	9	5C					361	
+361	Kerrier	1936			5C	7A	7A	21	23	361	
+362	Launceston			9	5C	7A	7A	21	23	362	
+362	St Thomas		1936	10	5B					362	
+363	Liskeard			9	5C	7A	7A	21	23	363	
+365	Penzance			9	5C	7A	7A	21	23	365	
+365	St Ives		1968	14	3B	4B				365	
+367	St Austell			9	5C	7A	7A	21	23	367	
+367	St Columb (orig St Columb Major)		1936	9	5C					367	
+368	St Germans			9	5C	7A	7A	21	23	368	
+369	Stratton			9	5C	7A	7A	21	23	369	
+370	Truro			9	5C	7A	7A	21	23	370	
+373	Barrow-In-Furness	1876			8E	10B	10B	1	24	373	
+375	Brampton (Carlisle)		1937	25	10B					375	
+375	Carlisle			25	10B	1A	1A	1	24	375	
+375	Longtown		1939	25	10B					375	
+376	Cockermouth (Cumbria)			25	10B	1A	1A	1	24	376	
+377	Kendal (Cumbria)		1937	25	10B			1	24	377	
+377	Sedbergh		1974	23	9A	2C	2C			377	
+379	Millom	1939			10B	1A	1A	1	24	379	
+380	Appleby	1974	1984					1		380	
+380	Garrigill (Alston &)			25	10B	1A	1A	1	24	380	
+380	Penrith (Cumbria)			25	10B	1A	1A	1	24	380	
+382	Ulverston			25	8E	10F	10F	1	24	382	
+385	Whitehaven			25	10B	1A	1A	1	24	385	
+386	Wigton			25	10B	1A	1A	1	24	386	
+389	Clitheroe		1974	21	8E	10C	10C			389	
+390	Ashbourne			19	7B	3A	3A	6	25	390	
+391	Bakewell			19	7B	3A	3A	6	25	391	
+392	Belper			19	7B	3A	3A	6	6	392	
+393	Chesterfield			19	7B	3A	3A	6	25	393	
+394	Derby			19	7B	3A	3A	6	25	394	
+395	Chapel-en-le-Frith		1974	19	7B	10A	10A			395	
+395	Glossop	1898	1974		7B	10A	10A			395	
+395	Hayfield		1938	19	7B					395	
+396	Erewash	1997								396	
+396	Ilkeston	1938			7B	3A	3A	6	6	396	
+397	Repton	1937	1974		7B	3A	3A			397	
+397	Shardlow		1974	19	7B	3A	3A			397	
+397	Swadlincote	1974						6	25	397	
+398	High Peak	1974	1839	18				6	25	398	
+404	Barnstaple			10	5B	7A	7A	21	21	404	
+404	North Devon	1998								404	
+404	South Molton		1936	10	5B					404	
+405	Bideford			10	5B	7A	7A	21	26	405	
+405	Holsworthy			9	5B	7A	7A	21	26	405	
+405	Torridge (was Bideford)	1998								405	
+405	Torrington		1937	10	5B					405	
+408	Exeter			10	5B	7A	7A	21	26	408	
+410	Axminster		1936	10	5B					410	
+410	East Devon	1998								410	
+410	Honiton			10	5B	7A	7A	21	26	410	
+413	Newton Abbot			10	5B	7A	7A	21	26	413	
+413	Teignbridge	1998								413	
+416	Devonport	1898	1937		5B					416	
+416	Plymouth			9	5B	7A	7A	21	26	416	
+416	Plympton (St Mary)		1974	9	5B	7A	7A			416	
+417	Kingsbridge			9	5B	7A	7A	21	26	417	
+417	South Hams	1998								417	
+417	Totnes		1968	9	5B	7A				417	
+419	Oakehampton			10	5B	7A	7A	21	26	419	
+419	Tavistock			9	5B	7A	7A	21	26	419	
+419	West Devon	1997								419	
+421	Crediton		1936	10	5B					421	
+421	Mid Devon	1978						21	26	421	
+421	Tiverton (orig Tiverton & Dulverton)			10	5B	7A	7A	21	26	421	
+422	Torbay	1968					7A	21	26	422	
+422	Torquay			9	5B	7A	7A	21	26	422	
+426	East Dorset	1997								426	
+426	Wimborne & CREATEDanborne (Poole)		1937	8	5A					426	
+427	Bournemouth	1932			2B	6B	6B	23	27	427	
+427	Bournemouth & Christchurch	1919	1932		2B					427	
+428	West Dorset	1997								428	
+430	Blandford		1956	8	5A	6A				430	
+430	North Dorset	1974						23	27	430	
+430	Shaftesbury		1937	8	5A					430	
+430	Sherbourne		1937	8	5A					430	
+430	Sturminster		1974	8	5A	6A	7C		27	430	
+430	Westbury (orig Westbury & Whorewellsdown)		1936	8	5A					430	
+431	Poole			8	5A	6A	7C	23	27	431	
+432	Beaminster		1937	8	5A					432	
+432	Bridport			8	5A	6A	7C	23	27	432	
+432	Dorchester		1949	8	5A	6A				432	
+432	Purbeck			8	5A	6A	7C	23	27	432	
+432	Wareham (orig Wareham & Purbeck)		1937	8	5A					432	
+433	Cerne		1838	8						433	
+433	South Dorset (South & West)	1997								433	
+433	Weymouth			8	5A	6A/7C	7C	23	27	433	
+436	Darlington			24	10A	1A	1A	1	28	436	
+438	Durham Eastern	1938			10A	1A	1A	1	28	438	
+438	Durham Northern	1938			10A	1A	1A	1	28	438	
+438	Durham South Western	1938			10A	1A	1A	1	28	438	
+438	Durham Western	1938			10A	1A	1A	1	28	438	
+439	Easington		1938	24	10A					439	
+440	Chester-le-Street		1938	24	10A					440	
+440	Lanchester		1938	24	10A					440	
+442	Auckland		1938	24	10A					442	
+442	Sedgefield		1938	24	10A					442	
+442	Teesdale		1938	24	10A					442	
+452	Brighton (early-Brighthelmston)			7	2B	5H	5H	18	29	452	
+452	Brighton (_ & Hove)	1998							29	452	
+452	Hove (Brighton & _)	1935			2B	5H	5H	18	29	452	
+454	Eastbourne			7	2B	5H	5H	18	29	454	
+454	Hailsham			7	2B	5H	5H	18	29	454	
+456	Battle		1977	7	2B	5H	5H	18		456	
+456	Hastings (& Rother)			7	2B	5H	5H	18	29	456	
+456	Rye		1935	7	2B					456	
+456	Ticehurst		1935	7	2B					456	
+459	Chailey		1838	7						459	
+459	Lewes			7	2B	5H	5H	18	29	459	
+459	Newhaven		1935	7	2B					459	
+459	West Firle		1838	7						459	
+461	Dowborough (was Uckfield)	2000								461	
+461	Uckfield (now Dowborough)			7	2B	5H	5H	18	29	461	
+465	Braintree			12	4A	4A	4A	9	30	465	
+465	Halstead		1972	12	4A	4A	4A			465	
+465	Witham		1880	12	4A					465	
+466	Basildon (Brentwood)	1974	1974					9		466	
+466	Billericay		1939	12	4A					466	
+466	Brentwood	1939			4A	4A	4A	9	30	466	
+467	Castle Point & Rochford	1999								467	
+467	Rochford (Castle Point & _)			12	4A	4A	4A	9	30	467	
+468	Chelmsford			12	4A	4A	4A	9	30	468	
+468	Maldon		1974	12	4A	4A	4A	9		468	
+469	Colchester			12	4A	4A	4A	9	30	469	
+469	Harwich	1939	1957		4A	4A				469	
+469	Lexden (now Colchester)		1939	12	4A					469	
+469	Tendring (now Colchester)		1939	12	4A					469	
+469	Winstree (& Lexden)			12	4A	4A	4A	9	30	469	
+470	Epping		1974	12	4A	5A	4A			470	
+470	Epping (Forest)	1974						9	30	470	
+470	Ongar		1939	12	4A					470	
+472	Harlow	1974						9	30	472	
+475	Southend-on-Sea	1939			4A	4A	4A	9	30	475	
+477	Orsett		1939	12	4A					477	
+477	Thurrock	1939			4A	4A	4A	9	30	477	
+478	Saffron Walden		1974	12	4A	4A	4A			478	
+478	Uttlesford	1974						9	30	478	
+479	Cheltenham			11	6A	7B	7B	22	31	479	
+479	Northleach		1937	11	6A					479	
+479	Tewkesbury		1937	11	6A					479	
+479	Winchcombe		1937	11	6A					479	
+480	Cirencester			11	6A	7B	7B	22	31	480	
+480	Tetbury		1937	11	6A					480	
+482	Forest of Dean	1937			6A	7B	7B	22	31	482	
+483	Gloucester (city and rural)			11	6A	7B	7B	22	31	483	
+483	Newent		1937	11	6A					483	
+483	Stow-on-the-Wold		1937	11	6A					483	
+483	Wheatenhurst		1937	11	6A					483	
+485	North Cotswold	1937			6A	7B	7B	22	31	485	
+487	Dursley		1937	11	6A					487	
+487	Kingswood	1937	1974		6A	7B	7B			487	
+487	Stroud			11	6A	7B	7B	22	31	487	
+489	Alton			7	2C	6B	6B	20	32	489	
+490	Andover			7	2C	6B	6B	20	32	490	
+490	Stockbridge		1932	7	2C					490	
+492	Droxford			7	2C	6B	6B	20	32	492	
+492	Winchester (orig Winchester & Hursley)			7	2C	6B	6B	20	32	492	
+494	Fordingbridge		1932	8	2B					494	
+494	Hungerford		1937	6	2C					494	
+494	Lymington		1932	8	2B					494	
+494	New Forest			8	2B	6B	6B	20	32	494	
+494	Ringwood & Fordingbridge		1932	8	2B			20	31	494	
+495	Aldershot	1932	1974		2C	6B				495	
+495	Farnborough		1869	4	2A					495	
+495	Hartley Wintney		1932	7	2C					495	
+495	North East Hampshire	1974						20	32	495	
+496	Catherington		1932	8	2C					496	
+496	Petersfield			7	2C	6B	6B	20	32	496	
+497	Portsea (_ Island)		1900	7	2B					497	
+497	Portsmouth	1900			2B	6B	6B	20	32	497	
+499	Gosport	1932	1974		2B	6B	6B			499	
+499	Romsey & Stockbridge			7	2C	6B	6B	20	32	499	
+499	South Stoneham (& North)		1925	7	2C					499	
+500	Southampton			7	2C	6B	6B	20	32	500	
+501	Fareham		1932	7	2B					501	
+501	Havant		1932	7	2B					501	
+501	South East Hampshire	1974						20	32	501	
+502	Alresford			7	2C	6B	6B	20	32	502	
+502	Hursley		1837	7						502	
+503	Basingstoke			7	2C	6B	6B	20	32	503	
+503	Kingsclere (& Whitchurch)			7	2C	6B	6B	20	32	503	
+503	Whitchurch (Hants)		1932	7	2C					503	
+504	Eastleigh	1925	1932		2C					504	
+504	Hampshire North	2001								504	
+512	Bromsgrove			18	6C	9D	9D	29	33	512	
+513	Bromyard			26	6A	9A	9A	29	33	513	
+514	Droitwich			18	6C	9D	9D	29	33	514	
+515	Evesham			18	6C	9D	9D	29	33	515	
+516	Dore (Hereford & _)			26	6A	9A	9A	29	33	516	
+516	Hereford			26	6A	9A	9A	29	33	516	
+517	Kidderminster			18	6C	9D	9D	29	33	517	
+518	Kington			26	6A	9A	9A	29	33	518	
+519	Ledbury			26	6A	9A	9A	29	33	519	
+520	Leominster			26	6A	9A	9A	29	33	520	
+521	Malvern	1952				9D	9D	29	33	521	
+521	Martley			18	6C	9D	9D	29	33	521	
+521	Upton-on-Severn		1952	18	6C	9D				521	
+522	Redditch	1997							29	522	
+523	Pershore			18	6C	9D	9D	29	33	523	
+524	Ross			26	6A	9A	9A	29	33	524	
+525	Tenbury			18	6C	9D	9D	29	33	525	
+527	Worcester			18	6C	9D	9D	29	33	527	
+528	Bishops Stortford			6	3A	4B	4B	10	34	528	
+528	Buntingford		1838	6						528	
+529	Broxbourne	1974						10	34	529	
+530	Berkhamstead		1974	6	3A	4B	4B			530	
+530	Dacorum	1974						10	34	530	
+530	Hemel Hempstead		1974	6	3A	4B	4B			530	
+532	Hatfield			6	3A	4B	4B	10	34	532	
+533	Hertford (& Ware)			6	3A	4B	4B	10	34	533	
+533	Ware		1974	6	3A	4B	4B			533	
+534	Hitchin (& Stevenage)			6	3A	4B	4B	10	34	534	
+534	Royston		1939	6	3A					534	
+534	Stevenage (also: Hitchin & _)	1974						10	34	534	
+535	St Albans			6	3A	4B	4B	10	34	535	
+536	Elstree & Potters Bar	1965					4B	10	34	536	
+536	Watford			6	3A	4B	4B	10	34	536	
+541	East Riding of Yorkshire			23	9D	2A	2A	7	35	541	
+542	Beverley (East Riding of Yorks)	1974	1937	23	9D			7	35	542	
+542	Hull	1854			9D	2A	2A	7	35	542	
+542	Patrington (now Beverley)		1937	23	9D					542	
+542	Skirlaugh		1937	22	9D					542	
+544	Bridlington (East Riding Yorks)		1937	23	9D					544	
+544	Bridlington (Hum)	1974						7	35	544	
+544	Driffield		1937	23	9D					544	
+547	Goole (East Riding of Yorks)			23	9C	2B	2B	7	35	547	
+547	Howden(shire)		1974	23	9D	2A	2A			547	
+548	North East Lincolnshire	1996							7	548	
+550	Holderness	1937	1974		9D	2A	2A			550	
+550	Hull, City of			22	9D	2A	2A	7	35	550	
+550	Kingston-upon-Hull (City)		1854	22	9D					550	
+550	Sculcoates		1937	22	9D					550	
+552	Pocklington East Riding Yorks		1937	23	9D					552	
+554	North Lincolnshire	1996							7	554	
+556	Isle Of Wight			8	2B	6B	6B	20	36	556	
+558	Ashford (with Shepway)(Kent)	1941			2A	5B	5F	16	36	558	
+558	East Ashford (Ashford)		1941	5	2A					558	
+558	Elham		1941	5	2A					558	
+558	Folkestone	1941	1974		2A	5B	5F			558	
+558	Strood	1885	1923		2A					558	
+558	Tenterden		1941	5	2A					558	
+558	West Ashford (Ashford West)		1941	5	2A					558	
+560	Blean		1941	5	2A					560	
+560	Bridge (Canterbury)		1974	5	2A	5B	5F			560	
+560	Canterbury (with Swale)(Kent)			5	2A	5B	5F	16	36	560	
+560	Faversham		1941	5	2A					560	
+560	Milton		1941	5	2A					560	
+560	Sheppey (Isle of _)			5	2A	5B	5F	16	36	560	
+560	Sittingbourne	1941			2A	5B	5F	16	36	560	
+561	Chatham (Medway)	1941			2A	5B	5F	16	16	561	
+561	Medway		1941	5	2A					561	
+562	Dartford		1980	5	2A	5B	5F	16		562	
+562	Gravesend (Kent)	1980	1941	5	2A			16	36	562	
+569	Hollingbourn		1941	5	2A					569	
+569	Maidstone (Kent)			5	2A	5B	5F	16	36	569	
+569	Shepway	1974						16	36	569	
+574	Swale	1980						16	16	574	
+575	Dover			5	2A	5B	5F	16	36	575	
+575	Eastry		1941	5	2A					575	
+575	Hoo		1923	5	2A					575	
+575	Thanet (with Dover)(Kent)			5	2A	5B	5F	16	36	575	
+576	Cranbrook		1941	5	2A					576	
+576	Sevenoaks		1941	5	2A					576	
+576	Tonbridge			5	2A	5B	5F	16	36	576	
+576	Tunbridge Wells (as Tonbridge)	1980						16	16	576	
+580	Blackburn (with Darwen)	1998								580	
+580	Darwen (Blackburn with _)	1937	1974		8E	10C	10C			580	
+581	Blackpool	1936	1974		8E	10B	10B			581	
+581	Blackpool (& Fylde)	1974					40	40	37	581	
+582	Burnley		1974	21	8E	10B	10B			582	
+582	Burnley (& Pendle)	1974						40	37	582	
+582	Nelson	1936	1974		8E	10E	10E			582	
+583	Chorley			21	8E	10C	10C	40	37	583	
+584	Fleetwood	1974	1982					40		584	
+584	Fleetwood (& Fylde)	1998							37	584	
+584	Fylde		1974	21	8E	10C	10C			584	
+586	Haslingden		1974	21	8E	10C	10C			586	
+586	Hyndburn & Rossendale	1974						40	37	586	
+587	Garstang			21	8E	10C	10C	40	37	587	
+587	Lancaster			21	8E	10C	10C	40	37	587	
+587	Lunesdale (_ View)	1869	1974		8E	10D	10D			587	
+588	Preston (& South Ribble)			21	8E	10F	10F	40	37	588	
+588	Ribble Valley	1974						40	37	588	
+590	Ormskirk (West Lancashire)		1974	21	8B	10F	10F			590	
+590	West Lancashire	1974						40	37	590	
+600	Leicester		1974	15	7A	3A	3A			600	
+600	Leicestershire (Central)	1949				3A	3A	6	6	600	
+604	Ketton	1934	1974		7A	3C	3C			604	
+604	Oakham		1974	15	7A	3C	3C			604	
+604	Rutland	1974						6	38	604	
+604	Uppingham		1974	15	7A	3C	3C			604	
+605	Ashby-de-la-Zouche		1949	15	7A	3A				605	
+605	Barrow-on-Soar		1949	15	7A	3A				605	
+605	Billesdon		1949	15	7A	3A				605	
+605	Blaby		1949	15	7A	3A				605	
+605	Coalville	1949				3A	3A	6	38	605	
+605	Hinckley (Leicestershire)			15	7A	3A	3A	6	38	605	
+605	Loughborough			15	7A	3A	3A	6	38	605	
+605	Lutterworth		1974	15	7A	3A	3A			605	
+605	Market Bosworth			15	7A	3A	3A	6	38	605	
+605	Market Harborough			15	7A	3A	3A	6	38	605	
+605	Melton & Rutland	1995							6	605	
+605	Melton Mowbray			15	7A	3A	3A	6	38	605	
+609	Minster			5	2A	5B	5F	16	16	609	
+610	Boston (now Lincolnshire)			14	7A	3B	3B	7	39	610	
+611	Bourne & South Kesteven	1934	1974		7A	3B	3B			611	
+611	Bourne		1935	14	7A			7	39	611	
+612	Caistor (now Lincolnshire)			14	7A	3B	3B	7	39	612	
+613	East Elloe (now Lincolnshire)	1936			7A	3B	3B	7	29	613	
+613	Holbeach		1936	14	7A					613	
+615	Gainsborough (now Lincolns.)			14	7A	3B	3B	7	39	615	
+616	Grantham & West Kesteven			14	7A	3B	3B	7	39	616	
+617	Horncastle (now Lincolnshire)			14	7A	3B	3B	7	39	617	
+619	Lincoln (now Lincolnshire)			14	7A	3B	3B	7	39	619	
+619	North Kesteven	1934	1974		7A	3B	3B			619	
+619	Welton	1934	1974		7A	3B	3B			619	
+620	Louth (now Lincolnshire)			14	7A	3B	3B	7	39	620	
+623	Sleaford & East Kesteven			14	7A	3B	3B	7	39	623	
+625	Spalding (now Lincolnshire)			14	7A	3B	3B	7	39	625	
+626	Spilsby (now Lincolnshire)			14	7A	3B	3B	7	39	626	
+627	Stamford (now Lincolnshire)			14	7A	3B	3B	7	39	627	
+632	Depwade			13	4B	4B	4B	10	40	632	
+634	East Dereham	1939			4B	4B	4B	10	40	634	
+634	Launditch			13	4B	4B	4B	10	40	634	
+635	Fakenham	1939			4B	4B	4B	10	40	635	
+635	Walsingham		1939	13	4B					635	
+636	East & West Flegg (see Flegg)		1925	13	4B					636	
+636	Flegg (orig East & West Flegg)		1925	13	4B					636	
+636	Great Yarmouth	1939			4B	4B	4B	10	40	636	
+636	Yarmouth (Great _ & Flegg)		1939	13	4B	4B				636	
+637	Docking		1939	13	4B					637	
+637	King's Lynn			13	4B	4B	4B	10	40	637	
+638	Erpingham		1939	13	4B					638	
+638	Happing (became Tunstead)			13	4B	4B	4B	10	40	638	
+638	North Walsham	1939			4B	4B	4B	10	40	638	
+638	Smallburgh	1870	1939		4B					638	
+638	Tunstead (Tunstead & Happing)		1870	13	4B					638	
+639	Acle	1939	1974		4B	4B	4B			639	
+639	Aylesham		1939	13	4B					639	
+639	Blofield		1939	13	4B					639	
+639	Downham			13	4B	4B	4B	10	40	639	
+639	Forehoe		1939	13	4B					639	
+639	Loddon (orig Loddon & Clavering)		1939	13	4B					639	
+639	Norwich			13	4B	4B	4B	10	40	639	
+639	Norwich Outer	1939	1991		4B	4B	4B	10		639	
+643	Swaffham		1939	13	4B					643	
+643	Thetford		1939	13	4B					643	
+643	Wayland			13	4B	4B	4B	10	40	643	
+650	Askrigg		1869	24	9D					650	
+650	Aysgarth	1869	1936		9D					650	
+650	Barkston Ash (prv Tadcaster)	1947	1974			2D	2D			650	
+650	Bedale		1936	24	9D					650	
+650	Bulmer (Thirsk/York)	1936	1974		9D	1B	1B			650	
+650	Claro (North Yorkshire)	1947			9A	2C	2C	2	2	650	
+650	Easingwold		1936	24	9D					650	
+650	Great Ousebourn	1854	1947		9A	2B				650	
+650	Helmsley		1936	24	9D					650	
+650	Kirk Deighton	1861	1869		9A					650	
+650	Knaresborough		1947	23	9A	2C				650	
+650	Leyburn		1936	24	9D					650	
+650	Malton		1936	24	9D					650	
+650	Northallerton			24	9D	1B	1B	2	41	650	
+650	North Yorkshire	1998								650	
+650	Pateley Bridge		1947	23	9A	2C				650	
+650	Pickering		1936	24	9D					650	
+650	Richmond (Yorks)			24	9D	1B	1B	2	41	650	
+650	Ripon		1947	23	9A	2C				650	
+650	Ryedale	1936			9D	1B	1B	2	41	650	
+650	Scarborough			24	9D	1B	1B	2	41	650	
+650	Selby			23	9C	2C	2C	2	41	650	
+650	Settle		1947	23	9A	2C				650	
+650	Skipton		1947	23	9A	2D				650	
+650	Stokesley		1936	24	9D					650	
+650	Tadcaster		1947	23	9C	2D				650	
+650	Thirsk			24	9D	1B	1B	2	41	650	
+650	Whitby			24	9D	1B	1B	2	41	650	
+661	York (1941 - 1946 = 9C)			23	9D	2D	2D	2	41	661	
+667	Corby (pre. Kettering)	1974						7	42	667	
+669	Kettering			15	3B	3B	3B	7	42	669	
+670	Brixworth		1974	15	3B	3B	3B			670	
+670	Daventry			15	3B	3B	3B	7	42	670	
+670	Hardingstone		1925	15	3B					670	
+670	Northampton			15	3B	3B	3B	7	42	670	
+670	Northampton (& Hardingstone)	1925	1936		3B					670	
+671	Oundle (& Thrapston)			15	3B	3B	3B	7	42	671	
+671	Thrapston		1974	15	3B	3B	3B			671	
+672	Brackley			15	3B	3B	3B	7	42	672	
+672	Potterspury		1935	15	3B					672	
+672	Towcester (_ & Brackley)			15	3B	3B	3B	7	42	672	
+673	Wellingborough			15	3B	3B	3B	7	42	673	
+677	Northumberland (Central)	1937			10B	1B	1B	1	42	677	
+677	Wensleydale	1936	1988		9D	1B	1B	2		677	
+678	Belford		1937	25	10B					678	
+678	Berwick-on-Tweed		1937	25	10B					678	
+678	Northumberland (North First)	1937			10B	1B	1B	1	42	678	
+679	Alnwick			25	10B	1B	1B	1	42	679	
+679	Northumberland (Nth Second)	1937			10B	1B	1B	1	42	679	
+679	Rothbury		1937	25	10B					679	
+680	Bellingham		1937	25	10B					680	
+680	Haltwhistle		1937	25	10B					680	
+680	Hexham		1937	25	10B	1B				680	
+680	Northumberland West	1937			10B	1B	1B	1	42	680	
+686	East Retford			15	7B	3C	3C	8	43	686	
+686	Worksop			15	7B	3C	3C	8	43	686	
+687	Mansfield			15	7B	3C	3C	8	43	687	
+688	Newark			15	7B	3C	3C	8	43	688	
+688	Southwell		1974	15	7B	3C	3C			688	
+689	Basford			15	7B	3C	3C	8	43	689	
+689	Nottingham			15	7B	3C	3C	8	43	689	
+689	Radford		1880	15	7B					689	
+690	Bingham		1974	15	7B	3C				690	
+690	Rushcliffe	1974						8	43	690	
+695	Abingdon			6	2C	6A	6A	20	44	695	
+695	Banbury			16	3A	6B	6B	20	44	695	
+695	Bicester		1932	16	3A					695	
+695	Chipping Norton		1982	16	3A	6B	6B	20		695	
+695	Faringdon		1937	6	2C					695	
+695	Headington		1933	16	3A					695	
+695	Henley			16	3A	6B	6B	20	44	695	
+695	Oxford			16	3A	6B	6B	20	44	695	
+695	Thame		1932	16	3A					695	
+695	Wallingford			6	2C	6A	6A	20	44	695	
+695	Wantage			6	2C	6A	6A	20	44	695	
+695	West Oxfordshire	1982						20	20	695	
+695	Witney		1982	16	3A	6B	6B	20		695	
+695	Woodstock		1932	16	3A					695	
+703	Bullingdon	1964				6B	6B	20	44	703	
+703	Ploughley & Bullingdon	1932			3A	6B	6B	20	44	703	
+710	Bridgnorth			18	6A	9A	9A	30	45	710	
+710	Shifnal		1935	18	6A					710	
+711	Clun			18	6A	9A	9A	30	45	711	
+712	Church Stretton		1935	18	6A					712	
+712	Cleobury Mortimer		1935	18	6A					712	
+712	Ludlow			18	6A	9A	9A	30	45	712	
+713	Drayton		1935	18	6A					713	
+713	Market Drayton		1935	18	6A					713	
+713	North Shropshire	1970					9A	30	45	713	
+713	Wem (orig Wem & Whitechurch)		1935	18	6A					713	
+713	Weobley			26	6A	9A	9A	29	33	713	
+713	Whitchurch (Salop)		1970	18	6A	9A	9A			713	
+714	Ellesmere		1935	18	6A					714	
+714	Oswestry			18	6A	9A	9A	30	45	714	
+715	Atcham		1935	18	6A					715	
+715	Shrewsbury			18	6A	9A	9A	30	45	715	
+715	Westbury-on-Severn		1937	11	6A					715	
+716	Wellington (Salop)		1974	18	6A	9A	9A			716	
+716	Wrekin (& Telford)	1974						30	30	716	
+721	Frome		1974	10	5C	7C	7C			721	
+721	Mendip	1974						23	46	721	
+721	Shepton Mallet		1936	10	5C					721	
+721	Wells		1974	10	5C	7C	7C			721	
+723	Axbridge		1936	10	5C					723	
+723	Bridgwater		1974	10	5C	7C	7C			723	
+723	Sedgemoor	1974						23	46	723	
+724	Taunton (Deane)			10	5C	7C	7C	23	46	724	
+724	Wellington (Somerset)		1936	10	5C					724	
+725	Dulverton		1936	10	5C					725	
+725	Exmoor	1936	1974		5C	7C	7C			725	
+725	West Somerset	1974						23	46	725	
+725	Williton		1936	10	5C					725	
+726	Chard		1974	10	5C	7C	7C			726	
+726	Langport		1936	10	5C					726	
+726	Wincanton		1974	10	5C	7C	7C			726	
+726	Yeovil (South Somerset)			10	5C	7C	7C	23	46	726	
+730	Cannock (Chase)	1877			6B	9B	9B	30	47	730	
+731	Burton-on-Trent			17	6B	9B	9B	17	47	731	
+731	East Staffordshire	1974						30	47	731	
+731	Uttoxeter		1939	17	6B					731	
+732	Lichfield			17	6B	9B	9B	30	47	732	
+732	Tamworth		1939	16	6B					732	
+733	Madeley		1935	18	6A					733	
+733	Newcastle-under-Lyme			17	6B	9B	9B	30	47	733	
+733	Wolstanton (orig Wolstanton & Burslem)		1922	17	6B					733	
+734	Penkridge		1877	17	6B					734	
+735	Stafford			17	6B	9B	9B	30	47	735	
+735	Stone		1937	17	6B					735	
+735	Tunstall			17	6B	6B	9B	30	47	735	
+736	Cheadle		1974	17	6B	9B	9B			736	
+736	Leek (orig Leek & Longnor)		1974	17	6B	9B	9B			736	
+737	Stoke & Wolstanton	1922	1935		6B					737	
+737	Stoke-on-Trent	1935			6B	9B	9B	30	47	737	
+737	Stoke-upon-Trent		1922	17	6B					737	
+738	South Staffordshire	1974						30	47	738	
+738	Staffordshire Moorlands	1974						30	30	738	
+742	Bury St Edmunds			13	4A	4B	4B	10	48	742	
+742	Mildenhall		1938	13	4A					742	
+742	Newmarket			14	3B	4B	4B	10	48	742	
+742	Wangford		1935	13	4A					742	
+743	Woodbridge		1935	12	4A					743	
+745	Claydon (Bosmere & _)			12	4A	4B	4B	10	48	745	
+745	Deben (Debenham)	1935			4A	4B	4B	10	48	745	
+745	Gipping (& Hartismere)	1935			4A	4B	4B	10	48	745	
+745	Hartismere (Gipping & _)			13	4A	4B	4B	10	48	745	
+745	Hoxne		1907	13	4A					745	
+747	Ipswich			12	4A	4B	4B	10	48	747	
+752	Sudbury			12	4A	4B	4B	10	48	752	
+753	Blyth	1935			4A	4B	4B	10	42	753	
+753	Lothingland	1935	1974		4A	4B	4B			753	
+753	Mutford (orig Mutford & Lothingland)		1935	13	4A					753	
+753	Wainford	1935	1948		4A	4B				753	
+753	Waveney	1974						10	48	753	
+755	Dorking		1934	4	2A					755	
+755	Epsom		1934	4	2A					755	
+755	Godstone		1934	4	2A					755	
+755	Reigate		1934	4	2A					755	
+756	Surrey Mid	1996							49	756	
+757	Chertsey		1934	4	2A					757	
+757	Staines		1947	3	3A	5F				757	
+761	Christchurch (Bournemouth)		1974	7	2B	6B	6B			761	
+761	Farnham (or NW & SW Surrey)		1934	4	2A					761	
+761	Guildford		1934	4	2A					761	
+761	Hambledon		1934	4	2A					761	
+761	Surrey West	1996							17	761	
+767	Atherstone		1974	16	6D	9C	9C			767	
+767	North Warwickshire	1974						31	50	767	
+768	Nuneaton (& Bedworth)			16	6D	9C	9C	31	50	768	
+770	Leamington & Warwick				6D	9C	9C	31	50	770	
+770	Rugby			16	6D	9C	9C	31	50	770	
+773	Alcester			16	6D	9C	9C	31	50	773	
+773	Shipston on Stour			11	6D	9C	9C	31	50	773	
+773	Stratford on Avon			16	6D	9C	9C	31	50	773	
+775	Southam			16	6D	9C	9C	31	50	775	
+775	Warwick & Leamington		1985	16	6D	9C	9C	31		775	
+776	Mid Warwickshire	1985						31	50	776	
+776	South Warwickshire	1985						31	50	776	
+779	Chichester			7	2B	5H	5H	18	51	779	
+779	Midhurst & Petworth (Chichester)		1974	7	2B	5H	5H			779	
+779	Petworth		1935	7	2B					779	
+779	Westbourne		1935	7	2B					779	
+779	Westhampnett		1935	7	2B					779	
+780	Crawley	1974						18		780	
+780	East Grinstead		1935	7	2B					780	
+781	Cuckfield		1980	7	2B	5H	5H	18		781	
+781	Haywards Heath	1980						18	51	781	
+783	Horsham			7	2B	5H	5H	18	51	783	
+786	Chanctonbury	1935	1974		2B	5H	5H			786	
+786	Steyning		1935	7	2B					786	
+786	Thakeham		1935	7	2B					786	
+786	Worthing			7	2B	5H	5H	18	51	786	
+788	Calne		1936	8	5A					788	
+788	Chippenham			8	5A	7C	7C	23	52	788	
+788	Cricklade (Swindon)		1936	8	5A					788	
+788	Malmesbury		1936	8	5A					788	
+789	Devizes (& Marlborough)			8	5A	7C	7C	23	52	789	
+789	Marlborough (_ & Devizes)			8	5A	7C	7C	23	52	789	
+789	Pewsey		1936	8	5A					789	
+795	Amesbury		1936	8	5A					795	
+795	Mere		1978	8	5A	7C	7C	23		795	
+795	Salisbury			8	5A	7C	7C	23	52	795	
+795	Tisbury		1936	8	5A					795	
+795	Wilton		1936	8	5A					795	
+796	Highworth		1899	8	5A					796	
+796	Swindon	1899			5A	7C	7C	23	52	796	
+797	Bradford-on-Avon		1936	8	5A					797	
+797	Melksham		1936	8	5A					797	
+797	Trowbridge	1936			5A	7C	7C	23	52	797	
+798	Warminster			8	5A	7C	7C	23	52	798	
+800	Flintshire East	1996							24	800	
+800	Flintshire West	1996							24	800	
+800	Hawarden	1903	1974		11B	8A	8A			800	
+802	Colwyn (or - Bay)	1974						24	53	802	
+803	Holywell		1974	27	11B	8A	8A			803	
+805	Corwen		1935	27	11B					805	
+805	Denbighshire S (De Sir Ddinbych)	1996							53	805	
+805	Ruthin		1974	27	11B	8A	8A			805	
+811	Denbigh N (Gogledd Sir Ddinbych	1996							53	811	
+811	Rhuddlan (Denbighshire North)	1974						24	53	811	
+811	St Asaph		1974	27	11B	8A	8A			811	
+813	Maelor	1954	1974			8A	8A			813	
+813	Overton (Wrexham Maelor)	1935	1954		11B	8A			53	813	
+813	Wrexham (Maelor)			27	11B	8A	8A	24	24	813	
+815	Aberayron		1936	27	11B					815	
+815	Lampeter		1936	27	11B					815	
+815	Tregaron		1936	27	11B					815	
+816	Aberystwith			27	11B	8A	8A	24	54	816	
+817	Bridgend & Cowbridge		1970	26	11A	8B	8B			817	
+817	Bridgend (1996 - from Ogwr)	1996							27	817	
+818	Carmarthen			26	11A	8A	8A	24	54	818	
+818	Llandovery		1935	26	11A					818	
+818	Newcastle in Emlyn		1936	26	11B					818	
+819	Haverfordwest Pembrokeshire			26	11A	8C	8C	24	54	819	
+819	South Pembrokeshire	1983						24	24	819	
+821	Narberth		1974	26	11A	8C	8C			821	
+821	Pembroke			26	11A	8C	8C	24	54	821	
+833	Blaenau Gwent	1974						28	55	833	
+833	Crickhowell		1974	26	11B	8A	8A			833	
+836	Caerleon	1936	1974		11A	8C	8C			836	
+836	Newport (Monmouth)			26	11A	8C	8C	28	55	836	
+837	Pontypool			26	11A	8C	8C	28	55	837	
+837	Torfaen	1996							28	837	
+839	Abergavenny			26	11A	8C	8C	28	55	839	
+839	Chepstow		1968	26	11A	8C	8C			839	
+839	Llanelli	1974						24	54	839	
+839	Llanelly		1974	26	11A	8A	8A			839	
+839	Monmouth(shire) Sir Fynwy		1939	26	11A				28	839	
+840	Ardudwy	1974						25	56	840	
+840	Ffestiniog		1935	27	11B					840	
+841	Bangor			27	11B	8A	8A	25	56	841	
+842	Caernarfon (Caernarvon)	1974						25	56	842	
+842	Caernarvon	1937	1974		11B	8A	8A			842	
+842	Carnarvon		1937	27	11B					842	
+845	Llanrwst		1935	27	11B					845	
+846	Dwyffryn Conwy	1974	1975				25	25		846	
+852	Bala		1935	27	11B					852	
+853	Pwllheli & Portmadog	1974						25	56	853	
+853	Pwllheli & Portmadoc		1974	27	11B	8A	8A			853	
+857	Holyhead	1885	1937		11B					857	
+857	Ynys Mon (Anglesey)	1974						25	25	857	
+860	Merthyr Tydfil			26	11A	8B	8B	27	57	860	
+860	Vaynor (Merthyr Tydfil)	1933	1974		11B	8A	8A			860	
+861	Mid Glamorgan	1970	1974				8B			861	
+862	Pontypridd Rhondda Cynon Taf	1863			11A	8B	8B	27	57	862	
+863	Bedwelty (or Bedwellty)	1861	1974		11A	8C	8C			863	
+863	Caerphilly	1996							57	863	
+866	Brecknock			26	11B	8A	8A	26	58	866	
+867	Builth			26	11B	8A	8A	26	58	867	
+867	Mid Powys	1988						26	58	867	
+867	Rhayader (orig Nantmel & Rhayader)		1933	26	11B					867	
+870	Hay			26	11B	8A	8A	26	58	870	
+874	Machynlleth			27	11B	8C	8C	26	58	874	
+875	Llandiloes			27	11B	8C	8C	26	58	875	
+875	Newtown (orig Newtown & Llanidloes)			27	11B	8C	8C	26	58	875	
+876	Knighton		1933	26	11B					876	
+876	Presteigne		1877	26	6A					876	
+876	Radnorshire East	1933			11B	8C	8C	26	58	876	
+880	Forden	1870	1936		11B					880	
+880	Llanfyllin			27	11B	8C	8C	26	58	880	
+880	Montgomery		1870	27	11B					880	
+880	Welshpool (& Llanfyllin)	1936			11B	8C	8C	26	58	880	
+881	Ystradgynlais	1935			11B	8A	8A	26	58	881	
+890	Cardiff (74-96 South Glamorgan)		1974	26	11A	8B	8B		29	890	
+890	Cardigan		1936	27	11B					890	
+890	Cardiganshire (North, South & Central)	1936			11B	8A	8A	24	54	890	
+891	Cowbridge (Vale of Glamorgan)			26	11A					891	
+891	Penllyn	1974						25	56	891	
+896	Neath (& Port Talbot)			26	11A	8B	8B	27	60	896	
+896	Pontardawe	1875	1935		11A					896	
+897	Gower	1858	1934		11A					897	
+897	Swansea			26	11A	8B	8B	27	60	897	
