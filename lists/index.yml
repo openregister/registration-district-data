@@ -1,0 +1,13 @@
+---
+gro:
+  name: General Register Office internal list 2015
+gro-derived:
+  name: Data derived from the General Register Office internal list 2015
+gro-officers:
+  name: General Register Office internal officer office list
+gro-district-book:
+  name: 
+  website: https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf
+ons:
+  name: ONS Registration Districts Names and Codes in England and Wales (2016)
+  website: http://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0
