@@ -59,7 +59,7 @@ def abolished(row):
     if not note.startswith('*'):
         return ""
 
-    return note.replace("*", "")
+    return note
 
 def natural_key(key):
     if (key.startswith("*")):

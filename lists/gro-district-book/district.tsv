@@ -1,0 +1,381 @@
+registration-district	name
+2	Bolton
+3	Bury
+6	Manchester
+7	Oldham
+9	Rochdale
+11	Salford
+13	Stockport
+14	Tameside
+15	Trafford
+16	Tameside
+17	Trafford
+18	Wigan and Leigh
+19	Chiltern Hills
+23	Knowsley
+25	Liverpool
+28	Vale of Glamorgan
+30	St Helens
+32	Sefton
+34	Sefton
+35	Sefton
+37	Wirral
+40	Blackburn
+41	Barnsley
+42	Doncaster
+45	Rotherham
+48	Sheffield
+51	Gateshead
+53	Newcastle Upon Tyne
+54	North Tyneside
+57	South Tyneside
+58	Sunderland
+61	Birmingham
+63	Coventry
+65	Dudley
+66	Dudley
+70	Sandwell
+73	Solihull
+75	Walsall
+77	Wolverhampton
+81	Bradford and Keighley
+82	Bradford and Keighley
+83	Bradford and Keighley
+86	Calderdale
+88	Kirklees
+89	Kirklees
+92	Leeds
+98	Wakefield
+99	Wakefield
+218	Barking and Dagenham
+219	Barnet
+220	Bexley
+221	Brent
+222	Bromley
+225	Croydon
+226	Ealing
+227	Enfield
+228	Hammersmith and Fulham
+229	Greenwich
+230	Hackney
+232	Hammersmith and Fulham
+233	Harringey
+234	Havering
+236	Hillingdon
+237	Hounslow
+238	Islington
+239	Kensington and Chelsea
+240	Kingston Upon Thames
+241	Lambeth
+242	Lewisham
+243	London City
+244	Merton
+246	Tower Hamlets
+247	Redbridge
+248	Richmond Upon Thames
+250	Camden
+251	Southwark
+254	Sutton
+255	Waltham Forest
+256	Wandsworth
+257	Newham
+258	Westminster
+300	Bath and North East Somerset
+301	Bristol
+304	South Gloucestershire
+307	North Somerset
+309	Bedforsdshire
+315	Luton
+318	Bracknell Forest
+319	West Berkshire
+320	Reading
+321	Slough
+322	Windsor and Maidenhead
+323	Wokingham
+324	Buckinghamshire
+326	Milton Keynes
+327	Buckinghamshire
+331	Cambridgeshire
+332	Cambridgeshire
+333	Cambridgeshire
+335	Peterborough
+338	Cambridgeshire
+339	Cambridgeshire
+340	Cheshire
+341	Cheshire
+342	Cheshire East
+343	Halton
+344	Cheshire West and Chester
+346	Warrington
+348	Middlesbrough
+349	Redcar and Cleveland
+350	Stockton-On-Tees
+351	Hartlepool
+354	Cornwall
+355	Cornwall
+359	Cornwall
+360	Isles Of Scilly
+361	Cornwall
+362	Cornwall
+363	Cornwall
+365	Cornwall
+367	Cornwall
+368	Cornwall
+369	Cornwall
+370	Cornwall
+373	Cumbria
+375	Cumbria
+376	Cumbria
+377	Cumbria
+379	Cumbria
+380	Cumbria
+382	Cumbria
+385	Cumbria
+386	Cumbria
+389	Ribble Valley
+390	Derbyshire
+391	Derbyshire
+392	Derbyshire
+393	Derbyshire
+394	Derby
+395	Derbyshire
+396	Derbyshire
+397	Derbyshire
+398	Derbyshire
+404	Devon
+405	Devon
+408	Devon
+410	Devon
+413	Devon
+416	Plymouth
+417	Devon
+419	Devon
+421	Devon
+422	Torbay
+426	Dorset
+427	Bournemouth
+428	Dorset
+430	Dorset
+431	Poole
+432	Dorset
+433	Dorset
+436	Darlington
+438	Durham
+439	Durham
+440	Durham
+442	Durham
+452	Brighton & Hove
+454	East Sussex
+456	East Sussex
+459	East Sussex
+461	East Sussex
+465	Essex
+466	Essex
+467	Essex
+468	Essex
+469	Essex
+470	Essex
+472	Essex
+475	Southend-On-Sea
+477	Thurrock
+478	Essex
+479	Gloucestershire
+480	Gloucestershire
+482	Gloucestershire
+483	Gloucestershire
+485	Gloucestershire
+487	Gloucestershire
+489	Hampshire
+490	Hampshire
+492	Hampshire
+494	Hampshire
+495	Hampshire
+496	Hampshire
+497	Portsmouth
+499	Hampshire
+500	Southampton
+501	Hampshire
+502	Hampshire
+503	Hampshire
+504	Hampshire
+512	Worcestershire
+513	Herefordshire
+514	Worcestershire
+515	Worcestershire
+516	Herefordshire
+517	Worcestershire
+518	Herefordshire
+519	Herefordshire
+520	Herefordshire
+521	Worcestershire
+522	Worcestershire
+523	Worcestershire
+524	Herefordshire
+525	Worcestershire
+527	Worcestershire
+528	Herefordshire
+529	Herefordshire
+530	Herefordshire
+532	Herefordshire
+533	Herefordshire
+534	Herefordshire
+535	Herefordshire
+536	Herefordshire
+541	East Riding of Yorkshire
+542	East Riding of Yorkshire
+544	East Riding of Yorkshire
+547	East Riding of Yorkshire
+548	North East Lincolnshire
+550	Kingston-Upon-Hull
+552	East Riding of Yorkshire
+554	North Lincolnshire
+556	Isle of Wight
+558	Kent
+560	Kent
+561	Medway
+562	Kent
+569	Kent
+574	Kent
+575	Kent
+576	Kent
+580	Blackburn With Darwen
+581	Blackpool
+582	Lancashire
+583	Lancashire
+584	Lancashire
+586	Lancashire
+587	Lancashire
+588	Lancashire
+590	Lancashire
+600	Leicester
+604	Rutland
+605	Leicestershire
+609	Lincolnshire
+610	Lincolnshire
+611	Lincolnshire
+612	Lincolnshire
+613	Lincolnshire
+615	Lincolnshire
+616	Lincolnshire
+617	Lincolnshire
+619	Lincolnshire
+620	Lincolnshire
+623	Lincolnshire
+625	Lincolnshire
+626	Lincolnshire
+627	Lincolnshire
+632	Norfolk
+634	Norfolk
+635	Norfolk
+636	Norfolk
+637	Norfolk
+638	Norfolk
+639	Norfolk
+643	Norfolk
+650	North Yorkshire
+661	York
+667	Northamptonshire
+669	Northamptonshire
+670	Northamptonshire
+671	Northamptonshire
+672	Northamptonshire
+673	Northamptonshire
+677	Northamptonshire
+678	Northamptonshire
+679	Northamptonshire
+680	Northamptonshire
+686	Nottinghamshire
+687	Nottinghamshire
+688	Nottinghamshire
+689	Nottingham
+690	Nottinghamshire
+695	Oxfordshire
+703	Oxfordshire
+710	Shropshire
+711	Shropshire
+712	Shropshire
+713	Shropshire
+714	Shropshire
+715	Shropshire
+716	Telford and Wrekin
+721	Somerset
+723	Somerset
+724	Somerset
+725	Somerset
+726	Somerset
+730	Staffordshire
+731	Staffordshire
+732	Staffordshire
+733	Staffordshire
+734	Staffordshire
+735	Staffordshire
+736	Staffordshire
+737	Stoke-On-Trent
+738	Staffordshire
+742	Suffolk
+743	Suffolk
+745	Suffolk
+747	Suffolk
+752	Suffolk
+753	Suffolk
+755	Surrey
+756	Surrey
+757	Surrey
+761	Surrey
+767	Warwickshire
+768	Warwickshire
+770	Warwickshire
+773	Warwickshire
+775	Warwickshire
+776	Warwickshire
+779	West Sussex
+780	West Sussex
+781	West Sussex
+783	West Sussex
+786	West Sussex
+788	Wiltshire
+789	Wiltshire
+795	Wiltshire
+796	Swindon
+797	Wiltshire
+798	Wiltshire
+800	Flintshire
+802	Conwy
+803	Flintshire
+805	Denbighshire
+811	Denbighshire
+813	Wrexham
+815	Ceredigion
+816	Ceredigion
+817	Ceredigion
+818	Carmarthenshire
+819	Pembrokeshire
+821	Pembrokeshire
+833	Blaenau Gwent
+836	Newport
+837	Torfaen
+839	Monmouthshire
+840	Gwynedd
+841	Gwynedd
+842	Gwynedd
+845	Conwy
+846	Conwy
+852	Gwynedd
+853	Gwynedd
+857	Isle of Anglesey
+860	Merthyr Tydfil
+861	Bridgend
+862	Rhondda Cynon Taf
+863	Caerphilly
+866	Powys
+867	Powys
+870	Powys
+874	Powys
+875	Powys
+876	Powys
+880	Powys
+881	Powys
+890	Cardiff
+891	Vale of Glamorgan
+896	Neath Port Talbot
+897	Swansea
