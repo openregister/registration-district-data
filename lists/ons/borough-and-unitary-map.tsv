@@ -1,0 +1,149 @@
+gss	registration-district	name	registration-district-name
+E28000001	2	Bolton	Bolton
+E28000002	3	Bury	Bury
+E28000003	6	Manchester	Manchester
+E28000004	7	Oldham	Oldham
+E28000005	9	Rochdale	Rochdale
+E28000006	11	Salford	Salford
+E28000007	13	Stockport	Stockport
+E28000008	14	Tameside	Tameside
+E28000009	15	Trafford	Trafford
+E28000010	18	Wigan and Leigh	Wigan and Leigh
+E28000011	23	Knowsley	Knowsley
+E28000012	25	Liverpool	Liverpool
+E28000013	30	St. Helens	St Helens
+E28000016	37	Wirral	Wirral
+E28000017	41	Barnsley	Barnsley
+E28000018	42	Doncaster	Doncaster
+E28000019	45	Rotherham	Rotherham
+E28000020	48	Sheffield	Sheffield
+E28000021	51	Gateshead	Gateshead
+E28000022	53	Newcastle upon Tyne	Newcastle Upon Tyne
+E28000023	54	North Tyneside	North Tyneside
+E28000024	57	South Tyneside	South Tyneside
+E28000025	58	Sunderland	Sunderland
+E28000026	61	Birmingham	Birmingham
+E28000027	63	Coventry	Coventry
+E28000028	65	Dudley	Dudley
+E28000029	70	Sandwell	Sandwell
+E28000030	73	Solihull	Solihull
+E28000031	75	Walsall	Walsall
+E28000032	77	Wolverhampton	Wolverhampton
+E28000033	83	Bradford and Keighley	Bradford and Keighley
+E28000034	86	Calderdale	Calderdale
+E28000037	92	Leeds	Leeds
+E28000040	218	Barking and Dagenham	Barking and Dagenham
+E28000041	219	Barnet	Barnet
+E28000042	220	Bexley	Bexley
+E28000043	221	Brent	Brent
+E28000044	222	Bromley	Bromley
+E28000045	225	Croydon	Croydon
+E28000046	226	Ealing	Ealing
+E28000047	227	Enfield	Enfield
+E28000048	229	Greenwich	Greenwich
+E28000049	230	Hackney	Hackney
+E28000050	232	Harrow	Harrow
+E28000051	233	Haringey	Haringey
+E28000052	234	Havering	Havering
+E28000053	236	Hillingdon	Hillingdon
+E28000054	237	Hounslow	Hounslow
+E28000055	238	Islington	Islington
+E28000056	239	Kensington and Chelsea	Kensington and Chelsea
+E28000057	240	Kingston upon Thames	Kingston Upon Thames
+E28000058	241	Lambeth	Lambeth
+E28000059	242	Lewisham	Lewisham
+E28000060	243	London City	London City
+E28000061	244	Merton	Merton
+E28000062	246	Tower Hamlets	Tower Hamlets
+E28000063	247	Redbridge	Redbridge
+E28000064	248	Richmond upon Thames	Richmond Upon Thames
+E28000065	250	Camden	Camden
+E28000066	251	Southwark	Southwark
+E28000067	254	Sutton	Sutton
+E28000068	255	Waltham Forest	Waltham Forest
+E28000069	256	Wandsworth	Wandsworth
+E28000070	257	Newham	Newham
+E28000071	258	Westminster	Westminster
+E28000072	260	Hammersmith and Fulham	Hammersmith and Fulham
+E28000073	300	Bath and North East Somerset	Bath and North East Somerset
+E28000074	301	Bristol	Bristol
+E28000075	304	South Gloucestershire	South Gloucestershire
+E28000076	307	North Somerset	North Somerset
+E28000078	315	Luton	Luton
+E28000079	318	Bracknell Forest	Bracknell Forest
+E28000080	319	West Berkshire	West Berkshire
+E28000081	320	Reading	Reading
+E28000082	321	Slough	Slough
+E28000083	322	Windsor and Maidenhead	Windsor and Maidenhead
+E28000084	323	Wokingham	Wokingham
+E28000085	326	Milton Keynes	Milton Keynes
+E28000087	335	Peterborough	Peterborough
+E28000089	343	Halton	Halton
+E28000090	346	Warrington	Warrington
+E28000092	348	Middlesbrough	Middlesbrough
+E28000093	349	Redcar and Cleveland	Redcar and Cleveland
+E28000094	350	Stockton-on-Tees	Stockton-on-Tees
+E28000095	351	Hartlepool	Hartlepool
+E28000096	360	Isles of Scilly	Isles of Scilly
+E28000097	371	Cornwall	Cornwall
+E28000111	394	Derby	Derby
+E28000115	416	Plymouth	Plymouth
+E28000116	422	Torbay	Torbay
+E28000118	427	Bournemouth	Bournemouth
+E28000120	431	Poole	Poole
+E28000121	436	Darlington	Darlington
+E28000122	442	County of Durham	County of Durham
+E28000123	452	Brighton and Hove	Brighton and Hove
+E28000132	475	Southend-on-Sea	Southend-on-Sea
+E28000133	477	Thurrock	Thurrock
+E28000136	497	Portsmouth	Portsmouth
+E28000137	500	Southampton	Southampton
+E28000139	511	Herefordshire	Herefordshire
+E28000142	541	East Riding of Yorkshire	East Riding of Yorkshire
+E28000143	548	North-East Lincolnshire	North East Lincolnshire
+E28000144	550	Hull	Hull
+E28000145	554	North Lincolnshire	North Lincolnshire
+E28000146	556	Isle of Wight	Isle of Wight
+E28000147	561	Medway	Medway
+E28000149	580	Blackburn with Darwen	Blackburn With Darwen
+E28000150	581	Blackpool	Blackpool
+E28000152	600	Leicester	Leicester
+E28000153	604	Rutland	Rutland
+E28000166	661	York	York
+E28000174	681	Northumberland	Northumberland
+E28000179	689	Nottingham	Nottingham
+E28000182	716	Telford and Wrekin	Telford and Wrekin
+E28000183	717	Shropshire	Shropshire
+E28000185	737	Stoke-on-Trent	Stoke-on-Trent
+E28000202	796	Swindon	Swindon
+E28000203	799	Wiltshire	Wiltshire
+E28000204	316	Bedford	Bedford
+E28000205	317	Central Bedfordshire	Central Bedfordshire
+E28000206	342	Cheshire East	Cheshire East
+E28000207	345	Cheshire West and Chester	Cheshire West and Chester
+E28000208	97	Wakefield	Wakefield
+E28000215	35	Sefton	Sefton
+E28000218	90	Kirklees	Kirklees
+W20000001	804	Flintshire/Sir Y Fflint	Flintshire
+W20000002	805	Denbighshire South/De Sir Ddinbych	Denbighshire South
+W20000003	811	Denbighshire North/Gogledd Sir Ddinbych	Denbighshire North
+W20000004	813	Wrexham	Wrexham
+W20000008	819	Pembrokeshire	Pembrokeshire
+W20000009	822	Carmarthenshire/Sir Gaerfyrddin	Carmarthenshire
+W20000010	833	Blaenau Gwent	Blaenau Gwent
+W20000011	836	Newport	Newport
+W20000012	837	Torfaen	Torfaen
+W20000013	839	Monmouthshire/Sir Fynwy	Monmouthshire
+W20000018	846	Conwy	Conwy
+W20000021	857	Ynys Mon (Isle of Anglesey)	Isle of Anglesey
+W20000022	860	Merthyr Tydfil/Merthyr Tudful	Merthyr Tydfil
+W20000023	861	Bridgend	Bridgend
+W20000024	863	Caerphilly	Caerphilly
+W20000025	864	Rhondda Cynon Taf	Rhondda Cynon Taf
+W20000034	890	Cardiff/Caerdydd	Cardiff
+W20000035	891	Vale of Glamorgan/Bro Morgannwg	Vale of Glamorgan
+W20000036	896	Neath Port Talbot	Neath Port Talbot
+W20000037	897	Swansea	Swansea
+W20000038	882	Powys	Powys
+W20000039	855	Gwynedd	Gwynedd
+W20000040	823	Ceredigion	Ceredigion
