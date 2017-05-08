@@ -1,6 +1,8 @@
 ---
 gro-2015:
   name: General Register Office (GRO) internal list 2015
+gro-register:
+  name: General Register Office (GRO) register data
 book-abolished:
   name: General Register Office (GRO) Registration Book abolished notes
   website: https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf

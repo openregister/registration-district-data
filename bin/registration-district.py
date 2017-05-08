@@ -13,7 +13,6 @@ fields = ['registration-district', 'name', 'name-cy', 'start-date', 'end-date']
 sep = '\t'
 
 source = sys.argv[1]
-historical = sys.argv[2]
 
 rows = {}
 

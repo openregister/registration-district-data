@@ -4,9 +4,9 @@
 REGISTER=data/registration-district/registration-district.tsv
 
 #
-#  source is primarily the gro-fixed list
+#  source is the gro-register list
 #
-SOURCE=lists/gro-fixed/list.tsv
+SOURCE=lists/gro-register/list.tsv
 HISTORICAL=lists/book-historical/list.tsv
 
 MAPS=\
@@ -16,15 +16,14 @@ MAPS=\
 LISTS=\
 	lists/book-abolished/list.tsv\
 	lists/book-historical/list.tsv\
-	lists/gro-fixed/list.tsv\
+	lists/book-transfers/list.tsv\
+	lists/gro-2015/list.tsv\
+	lists/gro-register/list.tsv\
 	lists/gro-officers/list.tsv\
 	lists/ons/list.tsv
 
-_LISTS=\
-	lists/gro-2015/list.tsv\
-	lists/book-transfers/list.tsv
-
-FIXUPS=
+FIXUPS=\
+	fixup/name.tsv
 
 
 # report of lists, maps and the register (TBD)
@@ -40,9 +39,9 @@ all: $(REGISTER) $(MAPS) $(REPORT)
 #
 #  made by hand ..
 #
-$(REGISTER):	bin/registration-district.py $(FIXUPS) $(SOURCE) $(HISTORICAL)
+$(REGISTER):	bin/registration-district.py $(FIXUPS) $(SOURCE)
 	@mkdir -p data/registration-district
-	python3 bin/registration-district.py $(SOURCE) $(HISTORICAL) > $@
+	python3 bin/registration-district.py $(SOURCE) > $@
 
 
 #
