@@ -10,7 +10,8 @@ book-historical:
   name: General Register Office (GRO) Registration Book historical codes
   website: https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf
 book-transfers:
-  name: District names from the Registration Book district transfer notes section
+  name: General Register Office (GRO) Registration Book district transfer notes
+  website: https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf
 gro-officers:
   name: General Register Office (GRO) internal officer office list
 ons:
