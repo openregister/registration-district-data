@@ -30,10 +30,10 @@ FIXUPS=\
 REPORT=report/index.html
 
 # recreation of the book of transfer of historical records
-BOOK=book/index.html
+BOOK=report/book/index.html
 
 
-all: $(REGISTER) $(MAPS) $(REPORT)
+all: $(REGISTER) $(MAPS) $(REPORT) $(BOOK)
 
 
 #
@@ -66,9 +66,9 @@ $(REPORT):	$(REGISTER) $(LISTS) $(MAPS) maps/index.yml lists/index.yml bin/repor
 #
 #  demonstration, recreate book
 #
-$(BOOK):	$(REGISTER) bin/book.py
-	@mkdir -p book
-	python3 bin/book.py > $@
+$(BOOK):	$(HISTORICAL) $(REGISTER) $(MAPS) $(REPORT) bin/book.py
+	@mkdir -p report/book
+	python3 bin/book.py < $(HISTORICAL) > $@
 
 
 #  remove targets
