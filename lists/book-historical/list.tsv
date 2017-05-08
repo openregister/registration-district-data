@@ -23,7 +23,7 @@ Amesbury		1936	8	5A					795
 Amounderness	1935	1974		8E	10B	10B				*4*
 Ampthill (now Bedfordshire)			6	3B	4A	4A	9	9	309	
 Andover			7	2C	6B	6B	20	32	490	
-Anglesey		1974	27	11B		8A		56	25	
+Anglesey		1937	27	11B		8A		56	25	
 Anglesey (east and west)	1937	1969		11B	8A					*5*
 Appleby	1974	1984					1		380	
 Ardudwy	1974						25	56	840	
@@ -65,7 +65,7 @@ Basingstoke			7	2C	6B	6B	20	32	503
 Bath		1996	11	5C	7C	7C	22		300	
 Bath (& North East Somerset)	1996							17	300	
 Bathavon	1936	1974		5C	7C	7C			300	
-Battersea	1930	1935		1D	5C				256	
+Battersea	1930	1965		1D	5C				256	
 Battle		1977	7	2B	5H	5H	18		456	
 Beaminster		1937	8	5A					432	
 Bedale		1936	24	9D					650	
@@ -140,7 +140,7 @@ Bridgwater		1974	10	5C	7C	7C			723
 Bridlington (East Riding Yorks)		1937	23	9D					544	
 Bridlington (Hum)	1974						7	35	544	
 Bridport			8	5A	6A	7C	23	27	432	
-Brightford			3	3A	-	-	-	-		*0*
+Brightford			3	3A						*0*
 Brighton (_ & Hove)	1998							29	452	
 Brighton (early-Brighthelmston)			7	2B	5H	5H	18	29	452	
 Bristol			11	6A	7B	7B	22	17	301	
@@ -187,7 +187,7 @@ Castle Ward		1937	25	10B						*13*
 Castleford	1862	1868		9C					98	
 Catherington		1932	8	2C					496	
 Caxton		1935	14	3B					331	
-Central Cleveland	1974						3	22		*15
+Central Cleveland	1974						3	22		*15*
 Cerne		1838	8						433	
 Chailey		1838	7						459	
 Chanctonbury	1935	1974		2B	5H	5H			786	
@@ -238,7 +238,7 @@ Congleton (& Crewe)	1974	1991					35		344
 Conway (Valley)		1974	27	11B	8A	8A				*16*
 Cookham		1896	6	2C					322	
 Corby (pre. Kettering)	1974						7	42	667	
-Cornwall			-	5C	-	-	-	-		*0*
+Cornwall				5C						*0*
 Corwen		1935	27	11B					805	
 Cosford		1938	12	4A						*17*
 Coventry			16	6D	9C	9C	33	7	63	
@@ -252,7 +252,7 @@ Cricklade (Swindon)		1936	8	5A					788
 Crosby (Sefton South)	1934			8B	10C	10C	37	3	32	
 Croydon			4	2A	5G	5A	11	11	225	
 Cuckfield		1980	7	2B	5H	5H	18		781	
-Cumberland			-	10B	-	-	-	-		*0*
+Cumberland				10B						*0*
 Dacorum	1974						10	34	530	
 Darlington			24	10A	1A	1A	1	28	436	
 Dartford		1980	5	2A	5B	5F	16		562	
@@ -624,7 +624,7 @@ Newport Pagnell		1935	6	3A					326
 Newton	1934	1974		8C	10F	10F			14	
 Newton Abbot			10	5B	7A	7A	21	26	413	
 Newtown (orig Newtown & Llanidloes)			27	11B	8C	8C	26	58	875	
-Norfolk			-	4B	4B	-	-	-		*0*
+Norfolk				4B	4B					*0*
 North Aylesford		1885	5	2A						*102*
 North Bierley	1892	1938		9B						*49*
 North Bucks	1935	1985		3A	6A	6A	19			*50*
@@ -668,7 +668,7 @@ Oldbury	1932	1966		6C	9D	9D				*56*
 Oldham			20	8D	10F	10F	39	1	7	
 Ongar		1939	12	4A					470	
 Ormskirk (West Lancashire)		1974	21	8B	10F	10F			590	
-Orpingham			-	3B	-	-	-	-		*0*
+Orpingham				3B						*0*
 Orsett		1939	12	4A					477	
 Oswestry			18	6A	9A	9A	30	45	714	
 Otley		1869	23	9A					92	
@@ -759,12 +759,12 @@ Sandwell	1974						33	8	70
 Scarborough			24	9D	1B	1B	2	41	650	
 Scilly Isles		1901	9	5C					360	
 Sculcoates		1937	22	9D					550	
-Scunthorpe	1938			7A	3B	3B	7	35		*71
+Scunthorpe	1938			7A	3B	3B	7	35		*71*
 Sedbergh		1974	23	9A	2C	2C			377	
 Sedgefield		1938	24	10A					442	
 Sedgemoor	1974						23	46	723	
 Sefton (North & South)	1980						37	3	32	
-Seisdon		1974	17			9B			77	
+Seisdon		1839	17			9B			77	
 Selby			23	9C	2C	2C	2	41	650	
 Settle		1947	23	9A	2C				650	
 Sevenoaks		1941	5	2A					576	
@@ -885,7 +885,7 @@ Surrey Northern	1934	1965		2A	5G		17	49		*90*
 Surrey South East	1934			2A	5G	5G	17	49		*91*
 Surrey South West	1934			2A	5G	5G	17	49		*88*
 Surrey West	1996							17	761	
-Sussex (County of _)			-	2B	-	-	-	-		*0*
+Sussex (County of _)				2B						*0*
 Sutton	1965					5E	15	16	254	
 Sutton Coldfield	1939	1974		6D	9C	9C			61	
 Swadlincote	1974						6	25	397	

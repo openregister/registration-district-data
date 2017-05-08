@@ -58,6 +58,10 @@ def abolished(row):
     if not note.startswith('*'):
         return ""
 
+    # fix broken note references
+    if not note.endswith('*'):
+        note = note + "*"
+
     return note
 
 
@@ -74,6 +78,8 @@ for row in reader:
 
     for m in maps:
         row[m] = n7e(row[maps[m]])
+        if row[m] == '-':
+            row[m] = ''
 
     rows.append(row)
 
