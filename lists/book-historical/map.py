@@ -9,7 +9,6 @@ import re
 sep = '\t'
 
 fields = [
-    'registration-district',
     'name',
     'start-date',
     'end-date',
@@ -61,11 +60,6 @@ def abolished(row):
 
     return note
 
-def natural_key(key):
-    if (key.startswith("*")):
-        return int("0" + re.sub("\D", "", key))
-    else:
-        return int("10000" + re.sub("\D", "", key))
 
 print(sep.join(fieldnames))
 
@@ -73,9 +67,6 @@ reader = csv.DictReader(sys.stdin, delimiter=sep)
 
 for row in reader:
 
-    code = find_code(row)
-
-    row['registration-district'] = code
     row['name'] = row['Registration District']
     row['start-date'] = find_date(row, 'CREATED')
     row['end-date'] = find_date(row, 'ABOLISHED')
@@ -86,5 +77,5 @@ for row in reader:
 
     rows.append(row)
 
-for row in sorted(rows, key=lambda row: natural_key(row['registration-district'])):
+for row in sorted(rows, key=lambda row: row['name']):
     print(sep.join([row[field] for field in fieldnames]))

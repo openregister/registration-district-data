@@ -10,30 +10,17 @@ Legislation referencing registration districts includes:
 
   * [Registration Service Act 1953 (c. 37), Sch 5](http://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/5?view=plain)
 
-## Maps
+# Lists, fixes and maps
 
-Maps assist in the translation of existing codes and names to register records:
+You can see a report generated from the lists, fixes and maps in this repository: https://openregister.github.io/registration-district-data/report/
 
-| Map | Fields |
-| :---         |    :--- |
-| [gss](maps/gss.tsv) |GSS code and name for registration districts in England and Wales |
+Generating maps is somewhat complicated by the same code being used historically to indicate different registration districts and much of the data being maintained in PDF documents.
 
-## Lists
-
-The data has been compiled from existing lists of registration districts found
-in a number of different government datasets:
-
-| List | Source | Count |
-| :---         |    :--- | ---: |
-|[gro](lists/gro) |Registration districts from General Register Office internal list 2015, including 5 abolished districts.|[180](lists/gro/list.tsv)|
-|[gro-derived](lists/gro-derived) |Registration districts from General Register Office internal list 2015, with names converted to mixed case, added Welsh name field, and end date on abolished districts.|[180](lists/gro-derived/list.tsv)|
-|[gro-district-book](lists/gro-district-book) |Registration districts from General Register Office (historical book)[https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf]|[1057](lists/gro-district-book/list.tsv)|
-|[gro-officers](lists/gro-officers) |Registration districts extracted from General Register Office internal officer office list.|[175](lists/gro-officers/list.tsv)|
-|[ons](lists/ons) |[Registration Districts (December 2016) Names and Codes in England and Wales](http://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0) from ONS Geography Open Data. Contains National Statistics data © Crown copyright and database right 2016.|[175](lists/ons/list.tsv)|
+This list of lists is by no means comprehensive, and contributions of other lists are appreciated.
 
 ## Generating data
 
-Use make to generate register shaped data:
+Use make to generate register shaped data and the reports:
 
 ```
 make init

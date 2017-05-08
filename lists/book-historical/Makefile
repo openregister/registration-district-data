@@ -2,7 +2,7 @@ URL='https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%2
 
 # uses https://en.wikipedia.org/wiki/Pdftotext which is bundled with poppler https://en.wikipedia.org/wiki/Poppler_(software)
 
-all: list.tsv abolished.tsv district.tsv
+all: list.tsv
 
 list.tsv:	data.tsv map.py
 	python3 ./map.py < data.tsv > $@
