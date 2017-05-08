@@ -187,7 +187,7 @@ District Numbers, you should instead, refer to the "<a href="#abolished">Abolish
 #  Main table ..
 #
 titles = {
-      'name': 'Registration District<br>(historical)',
+      'name': 'Registration District',
       'start-date': 'Created (date)',
       'end-date': 'Abolished (date)',
       '1837': 'Sept 1837 to 1851',
@@ -233,6 +233,9 @@ for row in historical:
 
     for field in historical_fields:
         s = row.get(field, '')
+
+        if field == 'name':
+            s = map_name(s)
 
         if field == 'abolished' and s in abolished:
             s = '<a href="#%s">%s</a>' % (s, s)
