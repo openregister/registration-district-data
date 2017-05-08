@@ -18,6 +18,7 @@ repo_data = repo + '/blob/master/'
 
 abolished_path = './lists/book-abolished/list.tsv'
 transfers_path = './lists/book-transfers/list.tsv'
+name_path = './maps/name.tsv'
 
 sep = '\t'
 
@@ -53,7 +54,23 @@ transfers = {}
 for row in csv.DictReader(open(transfers_path), delimiter=sep):
     transfers[row['gro-1997']] = row
 
+#
+#  load name map
+#
+names = {}
+for row in csv.DictReader(open(name_path), delimiter=sep):
+    names[row['name']] = row
 
+
+def map_name(name):
+    if name in names and names[name]['registration-district']:
+        return '<a href="../index.html#%s">%s</a>' % (names[name]['registration-district'], name)
+    return name
+
+
+#
+#  sort keys
+#
 def natural_key(s, _nsre=re.compile('([0-9]+)')):
     return [int(text) if text.isdigit() else text.lower()
             for text in re.split(_nsre, s)] 
@@ -104,6 +121,7 @@ table td {
 table th {
   font-weight: bold;
   cursor: pointer;
+  vertical-align: top;
 }
 
 .xref,
@@ -145,11 +163,31 @@ $(function() {
 header()
 print('<h1>GRO Registration District Book</h1>')
 
+print("""
+<h2>Cover Note</h2>
+<p>
+The District book (<a href="https://www.gro.gov.uk/gro/content/certificates/images/GRO%20Registration%20District%20Book.pdf">PDF</a>) can be used to assist in the tracing of registration events in England & Wales
+from the year 1837 onwards; providing a number / number & letter code for each registration
+district for a specific year set. This number / number & letter combination relates to a microfilm
+tape held by GRO where the corresponding districts’ registration entries are housed and can be
+used when applying for a certificate as part of a quoted reference relating to a particular entry.
+The District Book also provides information on abolished districts and where those records are
+now held.
+</p>
+<p>
+Districts that have been abolished prior to 1997 will none-the-less have a district number in the
+"1997 to 2001" column. This does not mean that the district has been re-established, only that the
+records from the historic district can now be found in the "new" district. For the location of these
+records, please refer to the ‘<a href="#district">1997-2001 District List</a>’.
+Numbers in the last column that are prepended and appended with asterisks are not
+District Numbers, you should instead, refer to the "<a href="#abolished">Abolished List</a>".
+</p>""")
+
 #
 #  Main table ..
 #
 titles = {
-      'name': 'Registration District',
+      'name': 'Registration District<br>(historical)',
       'start-date': 'Created (date)',
       'end-date': 'Abolished (date)',
       '1837': 'Sept 1837 to 1851',
@@ -158,7 +196,7 @@ titles = {
       '1965': 'June 1965 to March 1974',
       '1974': 'June 1974 to Dec 1992',
       '1993': 'Mar 1993 to Dec 1996',
-      '1997': '1997 to 2001',
+      '1997': '<a href="#district">1997 to 2001</a>',
       'abolished': 'Abolished (see&nbsp;<a href="#abolished">note</a>)'
 }
 historical_fields = [
@@ -182,7 +220,7 @@ print("""
 """)
 
 for field in historical_fields:
-      print('<th class="%s">%s</th>' % (field, titles[field]))
+    print('<th class="%s">%s</th>' % (field, titles[field]))
 
 print("""
     </tr>
@@ -194,7 +232,15 @@ for row in historical:
     print("<tr>")
 
     for field in historical_fields:
-          print('<td class="%s">%s</td>' % (field, row.get(field, "")))
+        s = row.get(field, '')
+
+        if field == 'abolished' and s in abolished:
+            s = '<a href="#%s">%s</a>' % (s, s)
+
+        if field == '1997' and s in transfers:
+            s = '<a href="#%s">%s</a>' % (s, s)
+
+        print('<td class="%s">%s</td>' % (field, s))
 
     print("</tr>")
 
@@ -222,7 +268,7 @@ print("""
 
 for key in sorted(abolished, key=natural_key):
 
-    lis = ", ".join(abolished[key])
+    lis = ", ".join([map_name(name) for name in abolished[key]])
 
     print("<tr id='%s'>" % (key))
     print('<td class="abolished">%s</td>' % (key))
@@ -255,14 +301,18 @@ for key in sorted(transfers, key=natural_key):
 
     row = transfers[key]
 
+
     print("<tr id='%s'>" % (key))
     print('<td class="district">%s</td>' % (key))
-    print('<td class="name">%s</td>' % row['name'])
+    print('<td class="name">%s</td>' % (map_name(row['name'])))
     print("</tr>")
 
 print("""
 </tbody>
 </table>
+
+<h2>Additional:</h2>
+<p>Marriages from 1993 - 1996 had an extra Volume (Vol 61). Also, the Volume numbers do not correspond with the Births & Death.</p>
 """)
 
 
