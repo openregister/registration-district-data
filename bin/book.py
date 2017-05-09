@@ -22,12 +22,19 @@ name_path = './maps/name.tsv'
 
 sep = '\t'
 
+#
+#  load name map
+#
+names = {}
+for row in csv.DictReader(open(name_path), delimiter=sep):
+    names[row['name']] = row
 
 #
 #  load historical data
 #
 historical = []
 for row in csv.DictReader(sys.stdin, delimiter=sep):
+    row['registration-district'] = names[row['name']]['registration-district']
     historical.append(row)
 
 #
@@ -54,12 +61,12 @@ transfers = {}
 for row in csv.DictReader(open(transfers_path), delimiter=sep):
     transfers[row['gro-1997']] = row
 
-#
-#  load name map
-#
-names = {}
-for row in csv.DictReader(open(name_path), delimiter=sep):
-    names[row['name']] = row
+
+def map_name_code(name):
+    if name in names and names[name]['registration-district']:
+        code = names[name]['registration-district']
+        return '<a href="../index.html#%s">%s</a>' % (code, code)
+    return name
 
 
 def map_name(name):
@@ -197,6 +204,7 @@ titles = {
       '1974': 'June 1974 to Dec 1992',
       '1993': 'Mar 1993 to Dec 1996',
       '1997': '<a href="#district">1997 to 2001</a>',
+      'registration-district': 'Register Code',
       'abolished': 'Abolished (see&nbsp;<a href="#abolished">note</a>)'
 }
 historical_fields = [
@@ -210,6 +218,7 @@ historical_fields = [
       '1974',
       '1993',
       '1997',
+      'registration-district',
       'abolished'
 ]
 
@@ -238,9 +247,12 @@ for row in historical:
             s = map_name(s)
 
         if field == 'abolished' and s in abolished:
-            s = '<a href="#%s">%s</a>' % (s, s)
+            s = '<a href="#abolished-%s">%s</a>' % (s, s)
 
         if field == '1997' and s in transfers:
+            s = '<a href="#1997-%s">%s</a>' % (s, s)
+
+        if field == 'registration-district' and s in register:
             s = '<a href="#%s">%s</a>' % (s, s)
 
         print('<td class="%s">%s</td>' % (field, s))
@@ -273,7 +285,7 @@ for key in sorted(abolished, key=natural_key):
 
     lis = ", ".join([map_name(name) for name in abolished[key]])
 
-    print("<tr id='%s'>" % (key))
+    print("<tr id='abolished-%s'>" % (key))
     print('<td class="abolished">%s</td>' % (key))
     print('<td class="names">%s</td>' % lis)
     print("</tr>")
@@ -294,6 +306,7 @@ print("""
 <thead>
     <tr>
         <th class='registration-district'>Key</th>
+        <th class='name'>Register Code</th>
         <th class='name'>District where records sent:</th>
     </tr>
 </thead>
@@ -304,9 +317,9 @@ for key in sorted(transfers, key=natural_key):
 
     row = transfers[key]
 
-
-    print("<tr id='%s'>" % (key))
+    print("<tr id='1997-%s'>" % (key))
     print('<td class="district">%s</td>' % (key))
+    print('<td class="code">%s</td>' % (map_name_code(row['name'])))
     print('<td class="name">%s</td>' % (map_name(row['name'])))
     print("</tr>")
 
