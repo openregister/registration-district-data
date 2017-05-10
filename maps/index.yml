@@ -1,10 +1,7 @@
 ---
 registration-district:
   name: Registration districts in England and Wales
-  key: registration-district
 gss:
   name: GSS registration district code (England and Wales)
-  key: gss
 name:
   name: Registration district name
-  key:  name

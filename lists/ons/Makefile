@@ -15,6 +15,7 @@ list.tsv:
 	curl -ks https://geoportal.statistics.gov.uk/datasets/ab365dcd27c64d04bcda8c5c019657a0_0.csv \
 	| csvformat -T \
 	| sed -e 's/REGD16NM/name/' -e 's/REGD16CD/gss/' \
+	| tail --bytes=+4 \
 	> $@
 
 # Downloads "Ward to Registration District to Local Authority District
